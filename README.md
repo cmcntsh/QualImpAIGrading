@@ -25,13 +25,6 @@ How well does the following text answer each of these questions? Why are you doi
 
 ### Grading a piece of writing using a specific rubric
 
-Rubric
-
-|     |  4  |  3  |  2  |  1  |
-| --- | --- | --- | --- | --- |
-| Grammar & Punctuation | The author makes no errors in grammar, mechanics, or spelling. | The author makes a few errors in grammar, mechanics, or spelling, but they do not interfere with understanding. | The author makes several errors in grammar, mechanics, or spelling that interfere with understanding. | The author makes numerous errors in grammar, mechanics, or spelling that interfere with understanding. |
-| Logic & Flow | The author consistently uses well-formed paragraphs that have clear topics, suitable transitions between sentences and paragraphs, logical arrangement, and clearly written sentences. | The author mostly uses well-formed paragraphs that have clear topics, suitable transitions between sentences and paragraphs, logical arrangement, and clearly written sentences. | The author has some paragraphs that are not well-formed. Topics in some paragraphs may not be clear. Some transitions between sentences and paragraphs may be abrupt or disjointed. Some paragraphs or sentences may not follow a logical arrangement or may not be clearly written. | The author has several paragraphs that are not well-formed. Topics in several paragraphs may not be clear. Transitions between sentences and paragraphs may be abrupt or disjointed. Several paragraphs or sentences may not follow a logical arrangement or may not be clearly written. |
-
 Prompt
 
 ```
@@ -40,6 +33,15 @@ Please grade the following text based on this rubric
 Here is the text:
 "[Paste the text to be graded here inside quotes.]"
 ```
+
+Rubric
+
+|     |  4  |  3  |  2  |  1  |
+| --- | --- | --- | --- | --- |
+| Grammar & Punctuation | The author makes no errors in grammar, mechanics, or spelling. | The author makes a few errors in grammar, mechanics, or spelling, but they do not interfere with understanding. | The author makes several errors in grammar, mechanics, or spelling that interfere with understanding. | The author makes numerous errors in grammar, mechanics, or spelling that interfere with understanding. |
+| Logic & Flow | The author consistently uses well-formed paragraphs that have clear topics, suitable transitions between sentences and paragraphs, logical arrangement, and clearly written sentences. | The author mostly uses well-formed paragraphs that have clear topics, suitable transitions between sentences and paragraphs, logical arrangement, and clearly written sentences. | The author has some paragraphs that are not well-formed. Topics in some paragraphs may not be clear. Some transitions between sentences and paragraphs may be abrupt or disjointed. Some paragraphs or sentences may not follow a logical arrangement or may not be clearly written. | The author has several paragraphs that are not well-formed. Topics in several paragraphs may not be clear. Transitions between sentences and paragraphs may be abrupt or disjointed. Several paragraphs or sentences may not follow a logical arrangement or may not be clearly written. |
+
+#### Follow up to get specific suggestions for improvement
 
 ChatGPT suggested a grade and made some geneneral suggestions for improvement. I followed up with another prompt and received specific examples with suggested fixes.
 
@@ -64,13 +66,6 @@ How well does the following text answer each of these questions? What is current
 
 ### Grading a piece of writing using a specific rubric
 
-Rubric
-
-|     |  4  |  3  |  2  |  1  |
-| --- | --- | --- | --- | --- |
-| Grammar & Punctuation | The author makes no errors in grammar, mechanics, or spelling. | The author makes a few errors in grammar, mechanics, or spelling, but they do not interfere with understanding. | The author makes several errors in grammar, mechanics, or spelling that interfere with understanding. | The author makes numerous errors in grammar, mechanics, or spelling that interfere with understanding. |
-| Logic & Flow | The author consistently uses well-formed paragraphs that have clear topics, suitable transitions between sentences and paragraphs, logical arrangement, and clearly written sentences. | The author mostly uses well-formed paragraphs that have clear topics, suitable transitions between sentences and paragraphs, logical arrangement, and clearly written sentences. | The author has some paragraphs that are not well-formed. Topics in some paragraphs may not be clear. Some transitions between sentences and paragraphs may be abrupt or disjointed. Some paragraphs or sentences may not follow a logical arrangement or may not be clearly written. | The author has several paragraphs that are not well-formed. Topics in several paragraphs may not be clear. Transitions between sentences and paragraphs may be abrupt or disjointed. Several paragraphs or sentences may not follow a logical arrangement or may not be clearly written. |
-
 Prompt
 
 ```
@@ -79,6 +74,15 @@ Please grade the following text based on this rubric
 Here is the text:
 "[Paste the text to be graded here inside quotes.]"
 ```
+
+Rubric
+
+|     |  4  |  3  |  2  |  1  |
+| --- | --- | --- | --- | --- |
+| Grammar & Punctuation | The author makes no errors in grammar, mechanics, or spelling. | The author makes a few errors in grammar, mechanics, or spelling, but they do not interfere with understanding. | The author makes several errors in grammar, mechanics, or spelling that interfere with understanding. | The author makes numerous errors in grammar, mechanics, or spelling that interfere with understanding. |
+| Logic & Flow | The author consistently uses well-formed paragraphs that have clear topics, suitable transitions between sentences and paragraphs, logical arrangement, and clearly written sentences. | The author mostly uses well-formed paragraphs that have clear topics, suitable transitions between sentences and paragraphs, logical arrangement, and clearly written sentences. | The author has some paragraphs that are not well-formed. Topics in some paragraphs may not be clear. Some transitions between sentences and paragraphs may be abrupt or disjointed. Some paragraphs or sentences may not follow a logical arrangement or may not be clearly written. | The author has several paragraphs that are not well-formed. Topics in several paragraphs may not be clear. Transitions between sentences and paragraphs may be abrupt or disjointed. Several paragraphs or sentences may not follow a logical arrangement or may not be clearly written. |
+
+#### Follow up to get specific suggestions for improvement
 
 ChatGPT suggested a grade and made some geneneral suggestions for improvement. I followed up with another prompt and received specific examples with suggested fixes.
 
@@ -105,13 +109,6 @@ How well does the following text discuss each of these elements? What frameworks
 
 ### Grading a piece of writing using a specific rubric
 
-Rubric
-
-|     |  4  |  3  |  2  |  1  |
-| --- | --- | --- | --- | --- |
-| Grammar & Punctuation | The author makes no errors in grammar, mechanics, or spelling. | The author makes a few errors in grammar, mechanics, or spelling, but they do not interfere with understanding. | The author makes several errors in grammar, mechanics, or spelling that interfere with understanding. | The author makes numerous errors in grammar, mechanics, or spelling that interfere with understanding. |
-| Logic & Flow | The author consistently uses well-formed paragraphs that have clear topics, suitable transitions between sentences and paragraphs, logical arrangement, and clearly written sentences. | The author mostly uses well-formed paragraphs that have clear topics, suitable transitions between sentences and paragraphs, logical arrangement, and clearly written sentences. | The author has some paragraphs that are not well-formed. Topics in some paragraphs may not be clear. Some transitions between sentences and paragraphs may be abrupt or disjointed. Some paragraphs or sentences may not follow a logical arrangement or may not be clearly written. | The author has several paragraphs that are not well-formed. Topics in several paragraphs may not be clear. Transitions between sentences and paragraphs may be abrupt or disjointed. Several paragraphs or sentences may not follow a logical arrangement or may not be clearly written. |
-
 Prompt
 
 ```
@@ -120,6 +117,15 @@ Please grade the following text based on this rubric
 Here is the text:
 "[Paste the text to be graded here inside quotes.]"
 ```
+
+Rubric
+
+|     |  4  |  3  |  2  |  1  |
+| --- | --- | --- | --- | --- |
+| Grammar & Punctuation | The author makes no errors in grammar, mechanics, or spelling. | The author makes a few errors in grammar, mechanics, or spelling, but they do not interfere with understanding. | The author makes several errors in grammar, mechanics, or spelling that interfere with understanding. | The author makes numerous errors in grammar, mechanics, or spelling that interfere with understanding. |
+| Logic & Flow | The author consistently uses well-formed paragraphs that have clear topics, suitable transitions between sentences and paragraphs, logical arrangement, and clearly written sentences. | The author mostly uses well-formed paragraphs that have clear topics, suitable transitions between sentences and paragraphs, logical arrangement, and clearly written sentences. | The author has some paragraphs that are not well-formed. Topics in some paragraphs may not be clear. Some transitions between sentences and paragraphs may be abrupt or disjointed. Some paragraphs or sentences may not follow a logical arrangement or may not be clearly written. | The author has several paragraphs that are not well-formed. Topics in several paragraphs may not be clear. Transitions between sentences and paragraphs may be abrupt or disjointed. Several paragraphs or sentences may not follow a logical arrangement or may not be clearly written. |
+
+#### Follow up to get specific suggestions for improvement
 
 ChatGPT suggested a grade and made some geneneral suggestions for improvement. I followed up with another prompt and received specific examples with suggested fixes.
 
@@ -146,13 +152,6 @@ How well does the following text discuss each of these elements? What is the pur
 
 ### Grading a piece of writing using a specific rubric
 
-Rubric
-
-|     |  4  |  3  |  2  |  1  |
-| --- | --- | --- | --- | --- |
-| Grammar & Punctuation | The author makes no errors in grammar, mechanics, or spelling. | The author makes a few errors in grammar, mechanics, or spelling, but they do not interfere with understanding. | The author makes several errors in grammar, mechanics, or spelling that interfere with understanding. | The author makes numerous errors in grammar, mechanics, or spelling that interfere with understanding. |
-| Logic & Flow | The author consistently uses well-formed paragraphs that have clear topics, suitable transitions between sentences and paragraphs, logical arrangement, and clearly written sentences. | The author mostly uses well-formed paragraphs that have clear topics, suitable transitions between sentences and paragraphs, logical arrangement, and clearly written sentences. | The author has some paragraphs that are not well-formed. Topics in some paragraphs may not be clear. Some transitions between sentences and paragraphs may be abrupt or disjointed. Some paragraphs or sentences may not follow a logical arrangement or may not be clearly written. | The author has several paragraphs that are not well-formed. Topics in several paragraphs may not be clear. Transitions between sentences and paragraphs may be abrupt or disjointed. Several paragraphs or sentences may not follow a logical arrangement or may not be clearly written. |
-
 Prompt
 
 ```
@@ -161,6 +160,15 @@ Please grade the following text based on this rubric
 Here is the text:
 "[Paste the text to be graded here inside quotes.]"
 ```
+
+Rubric
+
+|     |  4  |  3  |  2  |  1  |
+| --- | --- | --- | --- | --- |
+| Grammar & Punctuation | The author makes no errors in grammar, mechanics, or spelling. | The author makes a few errors in grammar, mechanics, or spelling, but they do not interfere with understanding. | The author makes several errors in grammar, mechanics, or spelling that interfere with understanding. | The author makes numerous errors in grammar, mechanics, or spelling that interfere with understanding. |
+| Logic & Flow | The author consistently uses well-formed paragraphs that have clear topics, suitable transitions between sentences and paragraphs, logical arrangement, and clearly written sentences. | The author mostly uses well-formed paragraphs that have clear topics, suitable transitions between sentences and paragraphs, logical arrangement, and clearly written sentences. | The author has some paragraphs that are not well-formed. Topics in some paragraphs may not be clear. Some transitions between sentences and paragraphs may be abrupt or disjointed. Some paragraphs or sentences may not follow a logical arrangement or may not be clearly written. | The author has several paragraphs that are not well-formed. Topics in several paragraphs may not be clear. Transitions between sentences and paragraphs may be abrupt or disjointed. Several paragraphs or sentences may not follow a logical arrangement or may not be clearly written. |
+
+#### Follow up to get specific suggestions for improvement
 
 ChatGPT suggested a grade and made some geneneral suggestions for improvement. I followed up with another prompt and received specific examples with suggested fixes.
 
@@ -187,13 +195,6 @@ How well does the following text discuss each of these elements? What are the co
 
 ### Grading a piece of writing using a specific rubric
 
-Rubric
-
-|     |  4  |  3  |  2  |  1  |
-| --- | --- | --- | --- | --- |
-| Grammar & Punctuation | The author makes no errors in grammar, mechanics, or spelling. | The author makes a few errors in grammar, mechanics, or spelling, but they do not interfere with understanding. | The author makes several errors in grammar, mechanics, or spelling that interfere with understanding. | The author makes numerous errors in grammar, mechanics, or spelling that interfere with understanding. |
-| Logic & Flow | The author consistently uses well-formed paragraphs that have clear topics, suitable transitions between sentences and paragraphs, logical arrangement, and clearly written sentences. | The author mostly uses well-formed paragraphs that have clear topics, suitable transitions between sentences and paragraphs, logical arrangement, and clearly written sentences. | The author has some paragraphs that are not well-formed. Topics in some paragraphs may not be clear. Some transitions between sentences and paragraphs may be abrupt or disjointed. Some paragraphs or sentences may not follow a logical arrangement or may not be clearly written. | The author has several paragraphs that are not well-formed. Topics in several paragraphs may not be clear. Transitions between sentences and paragraphs may be abrupt or disjointed. Several paragraphs or sentences may not follow a logical arrangement or may not be clearly written. |
-
 Prompt
 
 ```
@@ -202,6 +203,15 @@ Please grade the following text based on this rubric
 Here is the text:
 "[Paste the text to be graded here inside quotes.]"
 ```
+
+Rubric
+
+|     |  4  |  3  |  2  |  1  |
+| --- | --- | --- | --- | --- |
+| Grammar & Punctuation | The author makes no errors in grammar, mechanics, or spelling. | The author makes a few errors in grammar, mechanics, or spelling, but they do not interfere with understanding. | The author makes several errors in grammar, mechanics, or spelling that interfere with understanding. | The author makes numerous errors in grammar, mechanics, or spelling that interfere with understanding. |
+| Logic & Flow | The author consistently uses well-formed paragraphs that have clear topics, suitable transitions between sentences and paragraphs, logical arrangement, and clearly written sentences. | The author mostly uses well-formed paragraphs that have clear topics, suitable transitions between sentences and paragraphs, logical arrangement, and clearly written sentences. | The author has some paragraphs that are not well-formed. Topics in some paragraphs may not be clear. Some transitions between sentences and paragraphs may be abrupt or disjointed. Some paragraphs or sentences may not follow a logical arrangement or may not be clearly written. | The author has several paragraphs that are not well-formed. Topics in several paragraphs may not be clear. Transitions between sentences and paragraphs may be abrupt or disjointed. Several paragraphs or sentences may not follow a logical arrangement or may not be clearly written. |
+
+#### Follow up to get specific suggestions for improvement
 
 ChatGPT suggested a grade and made some geneneral suggestions for improvement. I followed up with another prompt and received specific examples with suggested fixes.
 
@@ -228,13 +238,6 @@ How well does the following text discuss each of these elements? How is the inte
 
 ### Grading a piece of writing using a specific rubric
 
-Rubric
-
-|     |  4  |  3  |  2  |  1  |
-| --- | --- | --- | --- | --- |
-| Grammar & Punctuation | The author makes no errors in grammar, mechanics, or spelling. | The author makes a few errors in grammar, mechanics, or spelling, but they do not interfere with understanding. | The author makes several errors in grammar, mechanics, or spelling that interfere with understanding. | The author makes numerous errors in grammar, mechanics, or spelling that interfere with understanding. |
-| Logic & Flow | The author consistently uses well-formed paragraphs that have clear topics, suitable transitions between sentences and paragraphs, logical arrangement, and clearly written sentences. | The author mostly uses well-formed paragraphs that have clear topics, suitable transitions between sentences and paragraphs, logical arrangement, and clearly written sentences. | The author has some paragraphs that are not well-formed. Topics in some paragraphs may not be clear. Some transitions between sentences and paragraphs may be abrupt or disjointed. Some paragraphs or sentences may not follow a logical arrangement or may not be clearly written. | The author has several paragraphs that are not well-formed. Topics in several paragraphs may not be clear. Transitions between sentences and paragraphs may be abrupt or disjointed. Several paragraphs or sentences may not follow a logical arrangement or may not be clearly written. |
-
 Prompt
 
 ```
@@ -243,6 +246,15 @@ Please grade the following text based on this rubric
 Here is the text:
 "[Paste the text to be graded here inside quotes.]"
 ```
+
+Rubric
+
+|     |  4  |  3  |  2  |  1  |
+| --- | --- | --- | --- | --- |
+| Grammar & Punctuation | The author makes no errors in grammar, mechanics, or spelling. | The author makes a few errors in grammar, mechanics, or spelling, but they do not interfere with understanding. | The author makes several errors in grammar, mechanics, or spelling that interfere with understanding. | The author makes numerous errors in grammar, mechanics, or spelling that interfere with understanding. |
+| Logic & Flow | The author consistently uses well-formed paragraphs that have clear topics, suitable transitions between sentences and paragraphs, logical arrangement, and clearly written sentences. | The author mostly uses well-formed paragraphs that have clear topics, suitable transitions between sentences and paragraphs, logical arrangement, and clearly written sentences. | The author has some paragraphs that are not well-formed. Topics in some paragraphs may not be clear. Some transitions between sentences and paragraphs may be abrupt or disjointed. Some paragraphs or sentences may not follow a logical arrangement or may not be clearly written. | The author has several paragraphs that are not well-formed. Topics in several paragraphs may not be clear. Transitions between sentences and paragraphs may be abrupt or disjointed. Several paragraphs or sentences may not follow a logical arrangement or may not be clearly written. |
+
+#### Follow up to get specific suggestions for improvement
 
 ChatGPT suggested a grade and made some geneneral suggestions for improvement. I followed up with another prompt and received specific examples with suggested fixes.
 
@@ -269,13 +281,6 @@ How well does the following text discuss each of these elements? What approach w
 
 ### Grading a piece of writing using a specific rubric
 
-Rubric
-
-|     |  4  |  3  |  2  |  1  |
-| --- | --- | --- | --- | --- |
-| Grammar & Punctuation | The author makes no errors in grammar, mechanics, or spelling. | The author makes a few errors in grammar, mechanics, or spelling, but they do not interfere with understanding. | The author makes several errors in grammar, mechanics, or spelling that interfere with understanding. | The author makes numerous errors in grammar, mechanics, or spelling that interfere with understanding. |
-| Logic & Flow | The author consistently uses well-formed paragraphs that have clear topics, suitable transitions between sentences and paragraphs, logical arrangement, and clearly written sentences. | The author mostly uses well-formed paragraphs that have clear topics, suitable transitions between sentences and paragraphs, logical arrangement, and clearly written sentences. | The author has some paragraphs that are not well-formed. Topics in some paragraphs may not be clear. Some transitions between sentences and paragraphs may be abrupt or disjointed. Some paragraphs or sentences may not follow a logical arrangement or may not be clearly written. | The author has several paragraphs that are not well-formed. Topics in several paragraphs may not be clear. Transitions between sentences and paragraphs may be abrupt or disjointed. Several paragraphs or sentences may not follow a logical arrangement or may not be clearly written. |
-
 Prompt
 
 ```
@@ -284,6 +289,15 @@ Please grade the following text based on this rubric
 Here is the text:
 "[Paste the text to be graded here inside quotes.]"
 ```
+
+Rubric
+
+|     |  4  |  3  |  2  |  1  |
+| --- | --- | --- | --- | --- |
+| Grammar & Punctuation | The author makes no errors in grammar, mechanics, or spelling. | The author makes a few errors in grammar, mechanics, or spelling, but they do not interfere with understanding. | The author makes several errors in grammar, mechanics, or spelling that interfere with understanding. | The author makes numerous errors in grammar, mechanics, or spelling that interfere with understanding. |
+| Logic & Flow | The author consistently uses well-formed paragraphs that have clear topics, suitable transitions between sentences and paragraphs, logical arrangement, and clearly written sentences. | The author mostly uses well-formed paragraphs that have clear topics, suitable transitions between sentences and paragraphs, logical arrangement, and clearly written sentences. | The author has some paragraphs that are not well-formed. Topics in some paragraphs may not be clear. Some transitions between sentences and paragraphs may be abrupt or disjointed. Some paragraphs or sentences may not follow a logical arrangement or may not be clearly written. | The author has several paragraphs that are not well-formed. Topics in several paragraphs may not be clear. Transitions between sentences and paragraphs may be abrupt or disjointed. Several paragraphs or sentences may not follow a logical arrangement or may not be clearly written. |
+
+#### Follow up to get specific suggestions for improvement
 
 ChatGPT suggested a grade and made some geneneral suggestions for improvement. I followed up with another prompt and received specific examples with suggested fixes.
 
@@ -310,13 +324,6 @@ How well does the following text discuss each of these elements? What tools, ins
 
 ### Grading a piece of writing using a specific rubric
 
-Rubric
-
-|     |  4  |  3  |  2  |  1  |
-| --- | --- | --- | --- | --- |
-| Grammar & Punctuation | The author makes no errors in grammar, mechanics, or spelling. | The author makes a few errors in grammar, mechanics, or spelling, but they do not interfere with understanding. | The author makes several errors in grammar, mechanics, or spelling that interfere with understanding. | The author makes numerous errors in grammar, mechanics, or spelling that interfere with understanding. |
-| Logic & Flow | The author consistently uses well-formed paragraphs that have clear topics, suitable transitions between sentences and paragraphs, logical arrangement, and clearly written sentences. | The author mostly uses well-formed paragraphs that have clear topics, suitable transitions between sentences and paragraphs, logical arrangement, and clearly written sentences. | The author has some paragraphs that are not well-formed. Topics in some paragraphs may not be clear. Some transitions between sentences and paragraphs may be abrupt or disjointed. Some paragraphs or sentences may not follow a logical arrangement or may not be clearly written. | The author has several paragraphs that are not well-formed. Topics in several paragraphs may not be clear. Transitions between sentences and paragraphs may be abrupt or disjointed. Several paragraphs or sentences may not follow a logical arrangement or may not be clearly written. |
-
 Prompt
 
 ```
@@ -325,6 +332,15 @@ Please grade the following text based on this rubric
 Here is the text:
 "[Paste the text to be graded here inside quotes.]"
 ```
+
+Rubric
+
+|     |  4  |  3  |  2  |  1  |
+| --- | --- | --- | --- | --- |
+| Grammar & Punctuation | The author makes no errors in grammar, mechanics, or spelling. | The author makes a few errors in grammar, mechanics, or spelling, but they do not interfere with understanding. | The author makes several errors in grammar, mechanics, or spelling that interfere with understanding. | The author makes numerous errors in grammar, mechanics, or spelling that interfere with understanding. |
+| Logic & Flow | The author consistently uses well-formed paragraphs that have clear topics, suitable transitions between sentences and paragraphs, logical arrangement, and clearly written sentences. | The author mostly uses well-formed paragraphs that have clear topics, suitable transitions between sentences and paragraphs, logical arrangement, and clearly written sentences. | The author has some paragraphs that are not well-formed. Topics in some paragraphs may not be clear. Some transitions between sentences and paragraphs may be abrupt or disjointed. Some paragraphs or sentences may not follow a logical arrangement or may not be clearly written. | The author has several paragraphs that are not well-formed. Topics in several paragraphs may not be clear. Transitions between sentences and paragraphs may be abrupt or disjointed. Several paragraphs or sentences may not follow a logical arrangement or may not be clearly written. |
+
+#### Follow up to get specific suggestions for improvement
 
 ChatGPT suggested a grade and made some geneneral suggestions for improvement. I followed up with another prompt and received specific examples with suggested fixes.
 
@@ -349,6 +365,34 @@ How well does the following text discuss each of these elements? What qualitativ
 "[Paste the text you want evaluated here.]"
 ```
 
+### Grading a piece of writing using a specific rubric
+
+Prompt
+
+```
+Please grade the following text based on this rubric
+[Paste the text of the rubric here, including the point values along the top and the grading categories along the side.]
+Here is the text:
+"[Paste the text to be graded here inside quotes.]"
+```
+
+Rubric
+
+|     |  4  |  3  |  2  |  1  |
+| --- | --- | --- | --- | --- |
+| Grammar & Punctuation | The author makes no errors in grammar, mechanics, or spelling. | The author makes a few errors in grammar, mechanics, or spelling, but they do not interfere with understanding. | The author makes several errors in grammar, mechanics, or spelling that interfere with understanding. | The author makes numerous errors in grammar, mechanics, or spelling that interfere with understanding. |
+| Logic & Flow | The author consistently uses well-formed paragraphs that have clear topics, suitable transitions between sentences and paragraphs, logical arrangement, and clearly written sentences. | The author mostly uses well-formed paragraphs that have clear topics, suitable transitions between sentences and paragraphs, logical arrangement, and clearly written sentences. | The author has some paragraphs that are not well-formed. Topics in some paragraphs may not be clear. Some transitions between sentences and paragraphs may be abrupt or disjointed. Some paragraphs or sentences may not follow a logical arrangement or may not be clearly written. | The author has several paragraphs that are not well-formed. Topics in several paragraphs may not be clear. Transitions between sentences and paragraphs may be abrupt or disjointed. Several paragraphs or sentences may not follow a logical arrangement or may not be clearly written. |
+
+#### Follow up to get specific suggestions for improvement
+
+ChatGPT suggested a grade and made some geneneral suggestions for improvement. I followed up with another prompt and received specific examples with suggested fixes.
+
+Prompt
+
+```
+Please provide specific examples where the author could make corrections and how they could be corrected.
+```
+
 
 
 ## 12. Ethical Considerations
@@ -362,6 +406,34 @@ Prompt (This prompt could be tried in https://chat.openai.com/ or https://bard.g
 ```
 How well does the following text discuss each of these elements? What ethical review process is described? What conflicts of interest are described? What are the ethical aspects particular to this project? Is any literature or evidence cited?
 "[Paste the text you want evaluated here.]"
+```
+
+### Grading a piece of writing using a specific rubric
+
+Prompt
+
+```
+Please grade the following text based on this rubric
+[Paste the text of the rubric here, including the point values along the top and the grading categories along the side.]
+Here is the text:
+"[Paste the text to be graded here inside quotes.]"
+```
+
+Rubric
+
+|     |  4  |  3  |  2  |  1  |
+| --- | --- | --- | --- | --- |
+| Grammar & Punctuation | The author makes no errors in grammar, mechanics, or spelling. | The author makes a few errors in grammar, mechanics, or spelling, but they do not interfere with understanding. | The author makes several errors in grammar, mechanics, or spelling that interfere with understanding. | The author makes numerous errors in grammar, mechanics, or spelling that interfere with understanding. |
+| Logic & Flow | The author consistently uses well-formed paragraphs that have clear topics, suitable transitions between sentences and paragraphs, logical arrangement, and clearly written sentences. | The author mostly uses well-formed paragraphs that have clear topics, suitable transitions between sentences and paragraphs, logical arrangement, and clearly written sentences. | The author has some paragraphs that are not well-formed. Topics in some paragraphs may not be clear. Some transitions between sentences and paragraphs may be abrupt or disjointed. Some paragraphs or sentences may not follow a logical arrangement or may not be clearly written. | The author has several paragraphs that are not well-formed. Topics in several paragraphs may not be clear. Transitions between sentences and paragraphs may be abrupt or disjointed. Several paragraphs or sentences may not follow a logical arrangement or may not be clearly written. |
+
+#### Follow up to get specific suggestions for improvement
+
+ChatGPT suggested a grade and made some geneneral suggestions for improvement. I followed up with another prompt and received specific examples with suggested fixes.
+
+Prompt
+
+```
+Please provide specific examples where the author could make corrections and how they could be corrected.
 ```
 
 
@@ -379,6 +451,34 @@ How well does the following text discuss each of these elements? What were the s
 "[Paste the text you want evaluated here.]"
 ```
 
+### Grading a piece of writing using a specific rubric
+
+Prompt
+
+```
+Please grade the following text based on this rubric
+[Paste the text of the rubric here, including the point values along the top and the grading categories along the side.]
+Here is the text:
+"[Paste the text to be graded here inside quotes.]"
+```
+
+Rubric
+
+|     |  4  |  3  |  2  |  1  |
+| --- | --- | --- | --- | --- |
+| Grammar & Punctuation | The author makes no errors in grammar, mechanics, or spelling. | The author makes a few errors in grammar, mechanics, or spelling, but they do not interfere with understanding. | The author makes several errors in grammar, mechanics, or spelling that interfere with understanding. | The author makes numerous errors in grammar, mechanics, or spelling that interfere with understanding. |
+| Logic & Flow | The author consistently uses well-formed paragraphs that have clear topics, suitable transitions between sentences and paragraphs, logical arrangement, and clearly written sentences. | The author mostly uses well-formed paragraphs that have clear topics, suitable transitions between sentences and paragraphs, logical arrangement, and clearly written sentences. | The author has some paragraphs that are not well-formed. Topics in some paragraphs may not be clear. Some transitions between sentences and paragraphs may be abrupt or disjointed. Some paragraphs or sentences may not follow a logical arrangement or may not be clearly written. | The author has several paragraphs that are not well-formed. Topics in several paragraphs may not be clear. Transitions between sentences and paragraphs may be abrupt or disjointed. Several paragraphs or sentences may not follow a logical arrangement or may not be clearly written. |
+
+#### Follow up to get specific suggestions for improvement
+
+ChatGPT suggested a grade and made some geneneral suggestions for improvement. I followed up with another prompt and received specific examples with suggested fixes.
+
+Prompt
+
+```
+Please provide specific examples where the author could make corrections and how they could be corrected.
+```
+
 
 
 ## 14. Summary
@@ -392,6 +492,34 @@ Prompt (This prompt could be tried in https://chat.openai.com/ or https://bard.g
 ```
 How well does the following text discuss each of these elements? What were key findings for the project? Which results were most compelling? What is the link between key findings and project objectives?
 "[Paste the text you want evaluated here.]"
+```
+
+### Grading a piece of writing using a specific rubric
+
+Prompt
+
+```
+Please grade the following text based on this rubric
+[Paste the text of the rubric here, including the point values along the top and the grading categories along the side.]
+Here is the text:
+"[Paste the text to be graded here inside quotes.]"
+```
+
+Rubric
+
+|     |  4  |  3  |  2  |  1  |
+| --- | --- | --- | --- | --- |
+| Grammar & Punctuation | The author makes no errors in grammar, mechanics, or spelling. | The author makes a few errors in grammar, mechanics, or spelling, but they do not interfere with understanding. | The author makes several errors in grammar, mechanics, or spelling that interfere with understanding. | The author makes numerous errors in grammar, mechanics, or spelling that interfere with understanding. |
+| Logic & Flow | The author consistently uses well-formed paragraphs that have clear topics, suitable transitions between sentences and paragraphs, logical arrangement, and clearly written sentences. | The author mostly uses well-formed paragraphs that have clear topics, suitable transitions between sentences and paragraphs, logical arrangement, and clearly written sentences. | The author has some paragraphs that are not well-formed. Topics in some paragraphs may not be clear. Some transitions between sentences and paragraphs may be abrupt or disjointed. Some paragraphs or sentences may not follow a logical arrangement or may not be clearly written. | The author has several paragraphs that are not well-formed. Topics in several paragraphs may not be clear. Transitions between sentences and paragraphs may be abrupt or disjointed. Several paragraphs or sentences may not follow a logical arrangement or may not be clearly written. |
+
+#### Follow up to get specific suggestions for improvement
+
+ChatGPT suggested a grade and made some geneneral suggestions for improvement. I followed up with another prompt and received specific examples with suggested fixes.
+
+Prompt
+
+```
+Please provide specific examples where the author could make corrections and how they could be corrected.
 ```
 
 
@@ -409,6 +537,34 @@ How well does the following text discuss each of these elements? How do the resu
 "[Paste the text you want evaluated here.]"
 ```
 
+### Grading a piece of writing using a specific rubric
+
+Prompt
+
+```
+Please grade the following text based on this rubric
+[Paste the text of the rubric here, including the point values along the top and the grading categories along the side.]
+Here is the text:
+"[Paste the text to be graded here inside quotes.]"
+```
+
+Rubric
+
+|     |  4  |  3  |  2  |  1  |
+| --- | --- | --- | --- | --- |
+| Grammar & Punctuation | The author makes no errors in grammar, mechanics, or spelling. | The author makes a few errors in grammar, mechanics, or spelling, but they do not interfere with understanding. | The author makes several errors in grammar, mechanics, or spelling that interfere with understanding. | The author makes numerous errors in grammar, mechanics, or spelling that interfere with understanding. |
+| Logic & Flow | The author consistently uses well-formed paragraphs that have clear topics, suitable transitions between sentences and paragraphs, logical arrangement, and clearly written sentences. | The author mostly uses well-formed paragraphs that have clear topics, suitable transitions between sentences and paragraphs, logical arrangement, and clearly written sentences. | The author has some paragraphs that are not well-formed. Topics in some paragraphs may not be clear. Some transitions between sentences and paragraphs may be abrupt or disjointed. Some paragraphs or sentences may not follow a logical arrangement or may not be clearly written. | The author has several paragraphs that are not well-formed. Topics in several paragraphs may not be clear. Transitions between sentences and paragraphs may be abrupt or disjointed. Several paragraphs or sentences may not follow a logical arrangement or may not be clearly written. |
+
+#### Follow up to get specific suggestions for improvement
+
+ChatGPT suggested a grade and made some geneneral suggestions for improvement. I followed up with another prompt and received specific examples with suggested fixes.
+
+Prompt
+
+```
+Please provide specific examples where the author could make corrections and how they could be corrected.
+```
+
 
 
 ## 16. Limitations
@@ -422,6 +578,34 @@ Prompt (This prompt could be tried in https://chat.openai.com/ or https://bard.g
 ```
 How well does the following text discuss each of these elements? What are the limitations to the generalizability of the work? What factors may limit internal validity? What are the limitations of the project? What efforts were made to adjust for limitations?
 "[Paste the text you want evaluated here.]"
+```
+
+### Grading a piece of writing using a specific rubric
+
+Prompt
+
+```
+Please grade the following text based on this rubric
+[Paste the text of the rubric here, including the point values along the top and the grading categories along the side.]
+Here is the text:
+"[Paste the text to be graded here inside quotes.]"
+```
+
+Rubric
+
+|     |  4  |  3  |  2  |  1  |
+| --- | --- | --- | --- | --- |
+| Grammar & Punctuation | The author makes no errors in grammar, mechanics, or spelling. | The author makes a few errors in grammar, mechanics, or spelling, but they do not interfere with understanding. | The author makes several errors in grammar, mechanics, or spelling that interfere with understanding. | The author makes numerous errors in grammar, mechanics, or spelling that interfere with understanding. |
+| Logic & Flow | The author consistently uses well-formed paragraphs that have clear topics, suitable transitions between sentences and paragraphs, logical arrangement, and clearly written sentences. | The author mostly uses well-formed paragraphs that have clear topics, suitable transitions between sentences and paragraphs, logical arrangement, and clearly written sentences. | The author has some paragraphs that are not well-formed. Topics in some paragraphs may not be clear. Some transitions between sentences and paragraphs may be abrupt or disjointed. Some paragraphs or sentences may not follow a logical arrangement or may not be clearly written. | The author has several paragraphs that are not well-formed. Topics in several paragraphs may not be clear. Transitions between sentences and paragraphs may be abrupt or disjointed. Several paragraphs or sentences may not follow a logical arrangement or may not be clearly written. |
+
+#### Follow up to get specific suggestions for improvement
+
+ChatGPT suggested a grade and made some geneneral suggestions for improvement. I followed up with another prompt and received specific examples with suggested fixes.
+
+Prompt
+
+```
+Please provide specific examples where the author could make corrections and how they could be corrected.
 ```
 
 
@@ -438,6 +622,35 @@ Prompt (This prompt could be tried in https://chat.openai.com/ or https://bard.g
 How well does the following text discuss each of these elements? What is the usefulness of the work? Is the work sustainable? What is the potential to spread this work to other contexts? What are the implications for practice? What are the implications for further study in the field? What is the overall usefulness of the work done for this project? Are there any larger implications to the field beyond this local setting? What else might still need to be done? What are the next steps? Are there any areas where current literature does not address questions you had or issues you encountered?
 "[Paste the text you want evaluated here.]"
 ```
+
+### Grading a piece of writing using a specific rubric
+
+Prompt
+
+```
+Please grade the following text based on this rubric
+[Paste the text of the rubric here, including the point values along the top and the grading categories along the side.]
+Here is the text:
+"[Paste the text to be graded here inside quotes.]"
+```
+
+Rubric
+
+|     |  4  |  3  |  2  |  1  |
+| --- | --- | --- | --- | --- |
+| Grammar & Punctuation | The author makes no errors in grammar, mechanics, or spelling. | The author makes a few errors in grammar, mechanics, or spelling, but they do not interfere with understanding. | The author makes several errors in grammar, mechanics, or spelling that interfere with understanding. | The author makes numerous errors in grammar, mechanics, or spelling that interfere with understanding. |
+| Logic & Flow | The author consistently uses well-formed paragraphs that have clear topics, suitable transitions between sentences and paragraphs, logical arrangement, and clearly written sentences. | The author mostly uses well-formed paragraphs that have clear topics, suitable transitions between sentences and paragraphs, logical arrangement, and clearly written sentences. | The author has some paragraphs that are not well-formed. Topics in some paragraphs may not be clear. Some transitions between sentences and paragraphs may be abrupt or disjointed. Some paragraphs or sentences may not follow a logical arrangement or may not be clearly written. | The author has several paragraphs that are not well-formed. Topics in several paragraphs may not be clear. Transitions between sentences and paragraphs may be abrupt or disjointed. Several paragraphs or sentences may not follow a logical arrangement or may not be clearly written. |
+
+#### Follow up to get specific suggestions for improvement
+
+ChatGPT suggested a grade and made some geneneral suggestions for improvement. I followed up with another prompt and received specific examples with suggested fixes.
+
+Prompt
+
+```
+Please provide specific examples where the author could make corrections and how they could be corrected.
+```
+
 
 
 
