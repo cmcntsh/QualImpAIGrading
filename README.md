@@ -1,6 +1,6 @@
-# Quality Improment AI Grading Resources and Suggestions
+# Quality Improment Manuscript AI Grading and Suggestions Resources
 
-This is a collection of resources and prompts for evaluating and grading student papers about quality improvement projects. It is broken down by sections as defined by SQUIRE 2.0 guidelines.
+This is a collection of resources and prompts for evaluating and grading student papers about quality improvement projects. It is broken down by sections as defined by SQUIRE 2.0 guidelines. I have tried some of these on ChatGPT https://chat.openai.com/ and Google Bard https://bard.google.com/chat . (I think ChatGPT may be a bit better right now, but both systems experience periodic updates, so that may change or vary with time.)
 
 ## 1. Title
 
