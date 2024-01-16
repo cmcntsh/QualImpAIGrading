@@ -1,13 +1,13 @@
 # Quality Improment Manuscript AI Grading and Suggestions Resources
 
-This is a collection of resources and prompts for evaluating and grading student papers about quality improvement projects. It is broken down by sections as defined by SQUIRE 2.0 guidelines. I have tried some of these on ChatGPT https://chat.openai.com/ and Google Bard https://bard.google.com/chat . (I think ChatGPT may be a bit better right now, but both systems experience periodic updates, so that may change or vary with time.) The options in the table below may work.
+This is a collection of resources and prompts for evaluating and grading student papers about quality improvement projects. It is broken down by sections as defined by SQUIRE 2.0 guidelines. I have tried some of these on ChatGPT https://chat.openai.com/ and Google Bard https://bard.google.com/chat . (I think ChatGPT may be a bit better right now, but both systems experience periodic updates, so that may change or vary with time.) The other generative models listed in the table below may work. I'm ordering the table by the models that current seem the best for this purpose. Higher up the list seems to perform better, lower down the list may not perform as well or is untested.
 
-| Link | Model | Company | As of Date |
+| Link | Model | Company | Testing Status | As of Date |
 | --- | --- | --- | --- |
-| https://chat.openai.com/ | GPT 3.5 | OpenAI | 01/15/2024 |
-| https://bard.google.com/chat | Gemini | Google | 01/15/2024 |
-| https://copilot.microsoft.com/ | GPT 4.0 Turbo | Microsoft | 01/15/2024 |
-| https://claude.ai/chats | Claude | Anthropic | 01/15/2024 |
+| https://copilot.microsoft.com/ | GPT 4.0 Turbo | Microsoft | little testing | 01/15/2024 |
+| https://chat.openai.com/ | GPT 3.5 | OpenAI | little testing | 01/15/2024 |
+| https://bard.google.com/chat | Gemini | Google | little testing | 01/15/2024 |
+| https://claude.ai/chats | Claude | Anthropic | untested | 01/15/2024 |
 
 ## 1. Title
 
