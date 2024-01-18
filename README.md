@@ -2,12 +2,12 @@
 
 This is a collection of resources and prompts for evaluating and grading student papers about quality improvement projects. It is broken down by sections as defined by SQUIRE 2.0 guidelines. The generative models listed in the table below may work. I'm ordering the table by the models that currently seem the best for this purpose. Higher up the list seems to perform better, lower down the list may not perform as well or is untested. Models get updated periodically, so performance may vary over time. 
 
-| Link | Model | Company | Testing Status | As of Date |
+| Link | Model | Company | Testing Status | Limitations | As of Date |
 | --- | --- | --- | --- | --- |
-| https://copilot.microsoft.com/ | GPT 4.0 Turbo | Microsoft | little testing | 01/15/2024 |
-| https://chat.openai.com/ | GPT 3.5 | OpenAI | little testing | 01/15/2024 |
-| https://bard.google.com/chat | Gemini | Google | little testing | 01/15/2024 |
-| https://claude.ai/chats | Claude | Anthropic | untested | 01/15/2024 |
+| https://copilot.microsoft.com/ | GPT 4.0 Turbo | Microsoft | little testing | 2000 character input limit (need to split text up into chunks) | 01/15/2024 |
+| https://chat.openai.com/ | GPT 3.5 | OpenAI | little testing | | 01/15/2024 |
+| https://bard.google.com/chat | Gemini | Google | little testing | | 01/15/2024 |
+| https://claude.ai/chats | Claude | Anthropic | untested | | 01/15/2024 |
 
 ## 1. Title
 
