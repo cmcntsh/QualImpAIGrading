@@ -29,6 +29,14 @@ Prompt (This prompt gave nice results in https://chat.openai.com/ and https://ba
 How well does the following text answer each of these questions? Why are you doing this project? What is the problem you’re addressing? Who is affected? When is it a problem? Why does it matter? How does it affect the patient or system? Has a cause been identified? What will happen if this problem is not addressed?
 "[Paste the text you want evaluated here.]"
 ```
+#### Prompt when text exceeds character limits
+
+Prompt: Include this phrase instead of the text in the prompt above if the text is too long to submit in a single entry.
+
+```
+The text is long and I need to submit it in sections. Please tell me when you're ready for the first section of text. After you receive the first section of text, tell me when you're ready for the next section of text. After each submission, keep asking for the next section of text until I tell you I'm done submitting text. Don't analyze the text until after I tell you all the text is submitted.
+```
+
 
 ### Grading a piece of writing using a specific rubric
 
