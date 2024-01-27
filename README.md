@@ -178,6 +178,26 @@ How well does the following text discuss each of these elements? What is the pur
 "[Paste the text you want evaluated here.]"
 ```
 
+### Evaluate how well each objective is justified by text in the Problem Description section
+
+Project objectives should be selected because they address the local problems outlined in the Problem Description section.
+
+Prompt (This prompt could be tried in https://chat.openai.com/ or https://bard.google.com/chat .)
+
+```
+I'm conducting a healthcare quality improvement project. How well is each project objective justified by the problem description text? Here are the project objectives: "[paste project objectives text here]" Here is the problem description text: "[paste Problem Description text here]"
+```
+
+### Evaluate how well each objective is supported by evidence cited in the Available Knowledge section
+
+Project objectives should also be selected because they address problems identified in published literature.
+
+Prompt (This prompt could be tried in https://chat.openai.com/ or https://bard.google.com/chat .)
+
+```
+I'm conducting a healthcare quality improvement project. How well is each project objective justified by the evidence cited in the available knowledge text? Here are the project objectives: "[paste project objectives text here]" Here is the available knowledge text: "[paste Problem Description text here]"
+```
+
 ### Grading a piece of writing using a specific rubric
 
 Prompt
