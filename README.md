@@ -23,6 +23,14 @@ How well does this title meet the following criteria: Does the title indicate th
 
 ## 3. Problem Description
 
+### Get a quick overall understanding of what is covered in the section by getting an outline
+
+Prompt
+
+```
+Please display the following text in outline format. In addition, please make the level 1 headings bold. In addition, please make the level 2 headings italics. Here is the text: "[paste text here inside quotes]"
+```
+
 ### Evaluate the Comprehensiveness of Content Coverage
 
 This section should cover most of the aspects described in the section instructions unless there are elements that are not relevant to this particular problem or information that is simply not available at this point. I would assess the comprehensiveness of the student's writing and identify any gaps left unaddressed by the student, and assign a grade according to the point rubric accordingly.
@@ -75,6 +83,14 @@ Please provide specific examples where the author could make corrections and how
 
 ## 4. Available Knowledge
 
+### Get a quick overall understanding of what is covered in the section by getting an outline
+
+Prompt
+
+```
+Please display the following text in outline format. In addition, please make the level 1 headings bold. In addition, please make the level 2 headings italics. Here is the text: "[paste text here inside quotes]"
+```
+
 ### Evaluate the Comprehensiveness of Content Coverage
 
 This section should cover most of the aspects described in the section instructions unless there are elements that are not relevant to this particular problem or information that is simply not available at this point. I would assess the comprehensiveness of the student's writing and identify any gaps left unaddressed by the student, and assign a grade according to the point rubric accordingly.
@@ -120,6 +136,14 @@ Please provide specific examples where the author could make corrections and how
 
 
 ## 5. Rationale
+
+### Get a quick overall understanding of what is covered in the section by getting an outline
+
+Prompt
+
+```
+Please display the following text in outline format. In addition, please make the level 1 headings bold. In addition, please make the level 2 headings italics. Here is the text: "[paste text here inside quotes]"
+```
 
 ### Evaluate the Comprehensiveness of Content Coverage
 
@@ -233,6 +257,14 @@ Please provide specific examples where the author could make corrections and how
 
 ## 7. Context
 
+### Get a quick overall understanding of what is covered in the section by getting an outline
+
+Prompt
+
+```
+Please display the following text in outline format. In addition, please make the level 1 headings bold. In addition, please make the level 2 headings italics. Here is the text: "[paste text here inside quotes]"
+```
+
 ### Evaluate the Comprehensiveness of Content Coverage
 
 This section should cover most of the aspects described in the section instructions unless there are elements that are not relevant to this particular problem. I would assess the comprehensiveness of the student's writing and identify any gaps left unaddressed by the student, and assign a grade according to the point rubric accordingly.
@@ -278,6 +310,14 @@ Please provide specific examples where the author could make corrections and how
 
 
 ## 8. Intervention(s)
+
+### Get a quick overall understanding of what is covered in the section by getting an outline
+
+Prompt
+
+```
+Please display the following text in outline format. In addition, please make the level 1 headings bold. In addition, please make the level 2 headings italics. Here is the text: "[paste text here inside quotes]"
+```
 
 ### Evaluate the Comprehensiveness of Content Coverage
 
@@ -325,6 +365,14 @@ Please provide specific examples where the author could make corrections and how
 
 ## 9. Study of the Intervention(s)
 
+### Get a quick overall understanding of what is covered in the section by getting an outline
+
+Prompt
+
+```
+Please display the following text in outline format. In addition, please make the level 1 headings bold. In addition, please make the level 2 headings italics. Here is the text: "[paste text here inside quotes]"
+```
+
 ### Evaluate the Comprehensiveness of Content Coverage
 
 This section should cover most of the aspects described in the section instructions unless there are elements that are not relevant to this particular problem. I would assess the comprehensiveness of the student's writing and identify any gaps left unaddressed by the student, and assign a grade according to the point rubric accordingly.
@@ -370,6 +418,14 @@ Please provide specific examples where the author could make corrections and how
 
 
 ## 10. Measures
+
+### Get a quick overall understanding of what is covered in the section by getting an outline
+
+Prompt
+
+```
+Please display the following text in outline format. In addition, please make the level 1 headings bold. In addition, please make the level 2 headings italics. Here is the text: "[paste text here inside quotes]"
+```
 
 ### Evaluate the Comprehensiveness of Content Coverage
 
@@ -417,6 +473,14 @@ Please provide specific examples where the author could make corrections and how
 
 ## 11. Analysis
 
+### Get a quick overall understanding of what is covered in the section by getting an outline
+
+Prompt
+
+```
+Please display the following text in outline format. In addition, please make the level 1 headings bold. In addition, please make the level 2 headings italics. Here is the text: "[paste text here inside quotes]"
+```
+
 ### Evaluate the Comprehensiveness of Content Coverage
 
 This section should cover most of the aspects described in the section instructions unless there are elements that are not relevant to this particular problem. I would assess the comprehensiveness of the student's writing and identify any gaps left unaddressed by the student, and assign a grade according to the point rubric accordingly.
@@ -462,6 +526,14 @@ Please provide specific examples where the author could make corrections and how
 
 
 ## 12. Ethical Considerations
+
+### Get a quick overall understanding of what is covered in the section by getting an outline
+
+Prompt
+
+```
+Please display the following text in outline format. In addition, please make the level 1 headings bold. In addition, please make the level 2 headings italics. Here is the text: "[paste text here inside quotes]"
+```
 
 ### Evaluate the Comprehensiveness of Content Coverage
 
@@ -509,6 +581,14 @@ Please provide specific examples where the author could make corrections and how
 
 ## 13. Results
 
+### Get a quick overall understanding of what is covered in the section by getting an outline
+
+Prompt
+
+```
+Please display the following text in outline format. In addition, please make the level 1 headings bold. In addition, please make the level 2 headings italics. Here is the text: "[paste text here inside quotes]"
+```
+
 ### Evaluate the Comprehensiveness of Content Coverage
 
 This section should cover most of the aspects described in the section instructions unless there are elements that are not relevant to this particular problem. I would assess the comprehensiveness of the student's writing and identify any gaps left unaddressed by the student, and assign a grade according to the point rubric accordingly.
@@ -554,6 +634,14 @@ Please provide specific examples where the author could make corrections and how
 
 
 ## 14. Summary
+
+### Get a quick overall understanding of what is covered in the section by getting an outline
+
+Prompt
+
+```
+Please display the following text in outline format. In addition, please make the level 1 headings bold. In addition, please make the level 2 headings italics. Here is the text: "[paste text here inside quotes]"
+```
 
 ### Evaluate the Comprehensiveness of Content Coverage
 
@@ -601,6 +689,14 @@ Please provide specific examples where the author could make corrections and how
 
 ## 15. Interpretation
 
+### Get a quick overall understanding of what is covered in the section by getting an outline
+
+Prompt
+
+```
+Please display the following text in outline format. In addition, please make the level 1 headings bold. In addition, please make the level 2 headings italics. Here is the text: "[paste text here inside quotes]"
+```
+
 ### Evaluate the Comprehensiveness of Content Coverage
 
 This section should cover most of the aspects described in the section instructions unless there are elements that are not relevant to this particular problem. I would assess the comprehensiveness of the student's writing and identify any gaps left unaddressed by the student, and assign a grade according to the point rubric accordingly.
@@ -647,6 +743,14 @@ Please provide specific examples where the author could make corrections and how
 
 ## 16. Limitations
 
+### Get a quick overall understanding of what is covered in the section by getting an outline
+
+Prompt
+
+```
+Please display the following text in outline format. In addition, please make the level 1 headings bold. In addition, please make the level 2 headings italics. Here is the text: "[paste text here inside quotes]"
+```
+
 ### Evaluate the Comprehensiveness of Content Coverage
 
 This section should cover most of the aspects described in the section instructions unless there are elements that are not relevant to this particular problem. I would assess the comprehensiveness of the student's writing and identify any gaps left unaddressed by the student, and assign a grade according to the point rubric accordingly.
@@ -692,6 +796,14 @@ Please provide specific examples where the author could make corrections and how
 
 
 ## 17. Conclusions
+
+### Get a quick overall understanding of what is covered in the section by getting an outline
+
+Prompt
+
+```
+Please display the following text in outline format. In addition, please make the level 1 headings bold. In addition, please make the level 2 headings italics. Here is the text: "[paste text here inside quotes]"
+```
 
 ### Evaluate the Comprehensiveness of Content Coverage
 
