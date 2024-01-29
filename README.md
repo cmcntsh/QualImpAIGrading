@@ -847,6 +847,12 @@ Prompt
 Please provide specific examples where the author could make corrections and how they could be corrected.
 ```
 
+## References
 
+Prompt: Check the formatting of references in the references list. (These need to be double-checked to verify correctness, but this prompt caught many formatting problems.)
+
+```
+Do these references follow proper APA 7 formatting guidelines? Please suggest specific improvements where needed. Here are the references: "[paste references here in quotes]"
+```
 
 
