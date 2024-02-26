@@ -8,6 +8,7 @@ This is a collection of resources and prompts for evaluating and grading student
 | https://copilot.microsoft.com/ | GPT 4.0 Turbo | Microsoft | little testing | 2000 character input limit (need to split text up into chunks) | 01/31/2024 |
 | https://claude.ai/chats | Claude | Anthropic | little testing | | 01/31/2024 |
 | https://bard.google.com/chat | Gemini | Google | little testing | superficial analysis, minimal feedback on writing evaluation | 01/31/2024 |
+| https://chat.mistral.ai/chat | Mistral Large | Mistral | Untested |  | 02/26/2024 |
 
 ## 1. Title
 
