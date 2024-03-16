@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you cite this README, please cite it as below."
+authors:
+- family-names: "Macintosh"
+  given-names: "C. I."
+  orcid: "https://orcid.org/0000-0003-4708-6756"
+title: "Quality Improvement Manuscript AI Grading adn Suggestions Resources"
+version: 1.0
+date-released: 2024-03-16
+url: "https://github.com/cmcntsh/PoWeRWritingGradStudents"
+preferred-citation:
+  type: generic
+  authors:
+  - family-names: "Macintosh"
+    given-names: "C. I."
+    orcid: "https://orcid.org/0000-0003-4708-6756"
+  title: "Quality Improvement Manuscript AI Grading adn Suggestions Resources"
+  year: 2024
