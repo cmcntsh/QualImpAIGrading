@@ -32,7 +32,7 @@ How well does this title meet the following criteria: Does the title indicate th
 
 ## 2. Abstract (write last)
 
-See copyediting prompt above. 
+See copyediting prompt above. https://github.com/cmcntsh/QualImpAIGrading#copyediting 
 
 ## 3. Problem Description
 
@@ -43,6 +43,10 @@ Prompt
 ```
 Please display the following text in outline format. In addition, please make the level 1 headings bold. In addition, please make the level 2 headings italics. Here is the text: "[paste text here inside quotes]"
 ```
+
+### Copyediting
+
+See copyediting prompt above. https://github.com/cmcntsh/QualImpAIGrading#copyediting
 
 ### Evaluate the Comprehensiveness of Content Coverage
 
@@ -104,6 +108,10 @@ Prompt
 Please display the following text in outline format. In addition, please make the level 1 headings bold. In addition, please make the level 2 headings italics. Here is the text: "[paste text here inside quotes]"
 ```
 
+### Copyediting
+
+See copyediting prompt above. https://github.com/cmcntsh/QualImpAIGrading#copyediting
+
 ### Evaluate the Comprehensiveness of Content Coverage
 
 This section should cover most of the aspects described in the section instructions unless there are elements that are not relevant to this particular problem or information that is simply not available at this point. I would assess the comprehensiveness of the student's writing and identify any gaps left unaddressed by the student, and assign a grade according to the point rubric accordingly.
@@ -158,6 +166,10 @@ Prompt
 Please display the following text in outline format. In addition, please make the level 1 headings bold. In addition, please make the level 2 headings italics. Here is the text: "[paste text here inside quotes]"
 ```
 
+### Copyediting
+
+See copyediting prompt above. https://github.com/cmcntsh/QualImpAIGrading#copyediting
+
 ### Evaluate the Comprehensiveness of Content Coverage
 
 This section should cover most of the aspects described in the section instructions unless there are elements that are not relevant to this particular problem. I would assess the comprehensiveness of the student's writing and identify any gaps left unaddressed by the student, and assign a grade according to the point rubric accordingly.
@@ -203,6 +215,10 @@ Please provide specific examples where the author could make corrections and how
 
 
 ## 6. Specific Aims
+
+### Copyediting
+
+See copyediting prompt above. https://github.com/cmcntsh/QualImpAIGrading#copyediting
 
 ### Evaluate the Comprehensiveness of Content Coverage
 
@@ -278,6 +294,10 @@ Prompt
 Please display the following text in outline format. In addition, please make the level 1 headings bold. In addition, please make the level 2 headings italics. Here is the text: "[paste text here inside quotes]"
 ```
 
+### Copyediting
+
+See copyediting prompt above. https://github.com/cmcntsh/QualImpAIGrading#copyediting
+
 ### Evaluate the Comprehensiveness of Content Coverage
 
 This section should cover most of the aspects described in the section instructions unless there are elements that are not relevant to this particular problem. I would assess the comprehensiveness of the student's writing and identify any gaps left unaddressed by the student, and assign a grade according to the point rubric accordingly.
@@ -331,6 +351,10 @@ Prompt
 ```
 Please display the following text in outline format. In addition, please make the level 1 headings bold. In addition, please make the level 2 headings italics. Here is the text: "[paste text here inside quotes]"
 ```
+
+### Copyediting
+
+See copyediting prompt above. https://github.com/cmcntsh/QualImpAIGrading#copyediting
 
 ### Evaluate the Comprehensiveness of Content Coverage
 
@@ -386,6 +410,10 @@ Prompt
 Please display the following text in outline format. In addition, please make the level 1 headings bold. In addition, please make the level 2 headings italics. Here is the text: "[paste text here inside quotes]"
 ```
 
+### Copyediting
+
+See copyediting prompt above. https://github.com/cmcntsh/QualImpAIGrading#copyediting
+
 ### Evaluate the Comprehensiveness of Content Coverage
 
 This section should cover most of the aspects described in the section instructions unless there are elements that are not relevant to this particular problem. I would assess the comprehensiveness of the student's writing and identify any gaps left unaddressed by the student, and assign a grade according to the point rubric accordingly.
@@ -439,6 +467,10 @@ Prompt
 ```
 Please display the following text in outline format. In addition, please make the level 1 headings bold. In addition, please make the level 2 headings italics. Here is the text: "[paste text here inside quotes]"
 ```
+
+### Copyediting
+
+See copyediting prompt above. https://github.com/cmcntsh/QualImpAIGrading#copyediting
 
 ### Evaluate the Comprehensiveness of Content Coverage
 
@@ -494,6 +526,10 @@ Prompt
 Please display the following text in outline format. In addition, please make the level 1 headings bold. In addition, please make the level 2 headings italics. Here is the text: "[paste text here inside quotes]"
 ```
 
+### Copyediting
+
+See copyediting prompt above. https://github.com/cmcntsh/QualImpAIGrading#copyediting
+
 ### Evaluate the Comprehensiveness of Content Coverage
 
 This section should cover most of the aspects described in the section instructions unless there are elements that are not relevant to this particular problem. I would assess the comprehensiveness of the student's writing and identify any gaps left unaddressed by the student, and assign a grade according to the point rubric accordingly.
@@ -547,6 +583,10 @@ Prompt
 ```
 Please display the following text in outline format. In addition, please make the level 1 headings bold. In addition, please make the level 2 headings italics. Here is the text: "[paste text here inside quotes]"
 ```
+
+### Copyediting
+
+See copyediting prompt above. https://github.com/cmcntsh/QualImpAIGrading#copyediting
 
 ### Evaluate the Comprehensiveness of Content Coverage
 
@@ -602,6 +642,10 @@ Prompt
 Please display the following text in outline format. In addition, please make the level 1 headings bold. In addition, please make the level 2 headings italics. Here is the text: "[paste text here inside quotes]"
 ```
 
+### Copyediting
+
+See copyediting prompt above. https://github.com/cmcntsh/QualImpAIGrading#copyediting
+
 ### Evaluate the Comprehensiveness of Content Coverage
 
 This section should cover most of the aspects described in the section instructions unless there are elements that are not relevant to this particular problem. I would assess the comprehensiveness of the student's writing and identify any gaps left unaddressed by the student, and assign a grade according to the point rubric accordingly.
@@ -655,6 +699,10 @@ Prompt
 ```
 Please display the following text in outline format. In addition, please make the level 1 headings bold. In addition, please make the level 2 headings italics. Here is the text: "[paste text here inside quotes]"
 ```
+
+### Copyediting
+
+See copyediting prompt above. https://github.com/cmcntsh/QualImpAIGrading#copyediting
 
 ### Evaluate the Comprehensiveness of Content Coverage
 
@@ -710,6 +758,10 @@ Prompt
 Please display the following text in outline format. In addition, please make the level 1 headings bold. In addition, please make the level 2 headings italics. Here is the text: "[paste text here inside quotes]"
 ```
 
+### Copyediting
+
+See copyediting prompt above. https://github.com/cmcntsh/QualImpAIGrading#copyediting
+
 ### Evaluate the Comprehensiveness of Content Coverage
 
 This section should cover most of the aspects described in the section instructions unless there are elements that are not relevant to this particular problem. I would assess the comprehensiveness of the student's writing and identify any gaps left unaddressed by the student, and assign a grade according to the point rubric accordingly.
@@ -764,6 +816,10 @@ Prompt
 Please display the following text in outline format. In addition, please make the level 1 headings bold. In addition, please make the level 2 headings italics. Here is the text: "[paste text here inside quotes]"
 ```
 
+### Copyediting
+
+See copyediting prompt above. https://github.com/cmcntsh/QualImpAIGrading#copyediting
+
 ### Evaluate the Comprehensiveness of Content Coverage
 
 This section should cover most of the aspects described in the section instructions unless there are elements that are not relevant to this particular problem. I would assess the comprehensiveness of the student's writing and identify any gaps left unaddressed by the student, and assign a grade according to the point rubric accordingly.
@@ -817,6 +873,10 @@ Prompt
 ```
 Please display the following text in outline format. In addition, please make the level 1 headings bold. In addition, please make the level 2 headings italics. Here is the text: "[paste text here inside quotes]"
 ```
+
+### Copyediting
+
+See copyediting prompt above. https://github.com/cmcntsh/QualImpAIGrading#copyediting
 
 ### Evaluate the Comprehensiveness of Content Coverage
 
