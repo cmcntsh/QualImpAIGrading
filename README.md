@@ -30,6 +30,21 @@ Prompt: Evaluate the title of a quality improvement paper (See 1. Title at https
 How well does this title meet the following criteria: Does the title indicate that it is about an initiative to improve safety, value, and/or quality in healthcare? Does the title describe the aim of the project? Does the title describe the context in which the project occurred? Is the title descriptive? Is the title simply written? Which terms in the title allow the reader to identify easily that the project is within the field of healthcare improvement? Which medical subject headings (MeSH) in the National Library of Medicine’s Medline database apply to this title? Please suggest ways the title could be improved and provide a revised title. Here is the title: "[paste the title here inside quotes]"
 ```
 
+### Grading the title using a specific rubric
+
+Prompt
+
+```
+Please grade the following title based on this rubric. Here is the rubric: "[Paste the text of the rubric here, including the point values along the top and the grading categories along the side.]" Here is the text: "[Paste the title to be graded here inside quotes.]"
+```
+
+Rubric
+
+| Criteria |  5  |  4  |  3  |  2  |  1  |
+| --- | --- | --- | --- | --- | --- |
+| Title Categories | The title excellently conveys that it pertains to an initiative aimed at improving safety, value, and/or quality in healthcare. The aim of the project is succinctly and precisely described in the title, leaving no ambiguity about its purpose. The context in which the project occurred is thoroughly and clearly outlined, providing a comprehensive understanding of its background and setting. The title is exceptionally descriptive, effectively capturing the essence of the project's focus and objectives. The title is impeccably written, with simplicity and clarity that immediately resonate with readers, leaving a lasting impression. | The title effectively communicates that it relates to an initiative to enhance safety, value, and/or quality in healthcare. The aim of the project is clearly articulated in the title, providing a concise overview of its purpose. The context in which the project occurred is well-described, offering insight into its background and setting. The title is highly descriptive, conveying the project's focus and objectives with precision. The title is written in a clear and concise manner, facilitating immediate understanding. | The title reasonably indicates that it pertains to an initiative aimed at improving safety, value, and/or quality in healthcare. The aim of the project is briefly described in the title, providing a basic understanding of its purpose. The context in which the project occurred is mentioned to some extent, offering a general idea of its background. The title is descriptive enough to give readers a sense of the project's focus and objectives. The title is written in a straightforward manner, making it relatively easy to understand.
+ | The title somewhat suggests an initiative to enhance safety, value, and/or quality in healthcare, but it lacks clarity. While the aim of the project may be hinted at, it is not fully described in the title. The context of the project is briefly mentioned but may not be clearly communicated. The title provides some description but could be more explicit and informative. The title may be somewhat convoluted or verbose, requiring effort to grasp its meaning. | The title fails to convey any indication that it relates to an initiative to improve safety, value, and/or quality in healthcare. The aim of the project and the context in which it occurred are not described in the title. The title lacks descriptiveness, providing little to no information about the project's focus or purpose. The title is overly complex or vague, making it difficult for readers to understand the project's essence. |
+
 ## 2. Abstract (write last)
 
 See copyediting prompt above. https://github.com/cmcntsh/QualImpAIGrading#copyediting 
