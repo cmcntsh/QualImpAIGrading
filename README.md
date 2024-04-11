@@ -35,7 +35,7 @@ How well does this title meet the following criteria: Does the title indicate th
 Prompt
 
 ```
-Please grade the following title based on this rubric. Here is the rubric: "[Paste the text of the rubric here, including the point values along the top and the grading categories along the side.]" Here is the text: "[Paste the title to be graded here inside quotes.]"
+Please grade the following title based on this rubric. Here is the rubric: "[Paste the text of the rubric here, including the point values along the top and the grading categories along the side.]" Here is the title: "[Paste the title to be graded here inside quotes.]"
 ```
 
 Rubric
