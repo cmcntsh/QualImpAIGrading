@@ -22,7 +22,7 @@ You should do copyediting (checking grammar, spelling, and punctuation) on the t
 Please list each sentence of this text in a new line, and please number the lines. In addition, please review each sentence for grammar, syntax, usage, spelling, and punctuation errors and suggest specific improvements. When suggesting revisions, please list the sentence number, the original sentence, the reason a revision might be needed, and then the revised sentence. If no revision is suggested, please indicate that no revision is needed.  Here is the text: "[paste text here inside quotes]"
 ```
 
-
+<br><br>
 
 
 
@@ -58,7 +58,7 @@ Prompt
 Please provide specific examples where the author could make improvements and how they could be improved.
 ```
 
-
+<br><br>
 
 
 
@@ -67,6 +67,7 @@ Please provide specific examples where the author could make improvements and ho
 See copyediting prompt above. https://github.com/cmcntsh/QualImpAIGrading#copyediting 
 
 
+<br><br>
 
 
 
@@ -191,6 +192,10 @@ Prompt
 Please provide specific examples where the author could make corrections and how they could be corrected.
 ```
 
+<br><br>
+
+
+
 
 
 ## 5. Rationale
@@ -249,6 +254,10 @@ Prompt
 ```
 Please provide specific examples where the author could make corrections and how they could be corrected.
 ```
+
+<br><br>
+
+
 
 
 
@@ -321,6 +330,10 @@ Prompt
 Please provide specific examples where the author could make corrections and how they could be corrected.
 ```
 
+<br><br>
+
+
+
 
 
 ## 7. Context
@@ -379,6 +392,10 @@ Prompt
 ```
 Please provide specific examples where the author could make corrections and how they could be corrected.
 ```
+
+<br><br>
+
+
 
 
 
@@ -439,6 +456,10 @@ Prompt
 Please provide specific examples where the author could make corrections and how they could be corrected.
 ```
 
+<br><br>
+
+
+
 
 
 ## 9. Study of the Intervention(s)
@@ -497,6 +518,10 @@ Prompt
 ```
 Please provide specific examples where the author could make corrections and how they could be corrected.
 ```
+
+<br><br>
+
+
 
 
 
@@ -557,6 +582,10 @@ Prompt
 Please provide specific examples where the author could make corrections and how they could be corrected.
 ```
 
+<br><br>
+
+
+
 
 
 ## 11. Analysis
@@ -615,6 +644,10 @@ Prompt
 ```
 Please provide specific examples where the author could make corrections and how they could be corrected.
 ```
+
+<br><br>
+
+
 
 
 
@@ -675,6 +708,10 @@ Prompt
 Please provide specific examples where the author could make corrections and how they could be corrected.
 ```
 
+<br><br>
+
+
+
 
 
 ## 13. Results
@@ -733,6 +770,10 @@ Prompt
 ```
 Please provide specific examples where the author could make corrections and how they could be corrected.
 ```
+
+<br><br>
+
+
 
 
 
@@ -793,6 +834,10 @@ Prompt
 Please provide specific examples where the author could make corrections and how they could be corrected.
 ```
 
+<br><br>
+
+
+
 
 
 ## 15. Interpretation
@@ -852,6 +897,10 @@ Prompt
 Please provide specific examples where the author could make corrections and how they could be corrected.
 ```
 
+<br><br>
+
+
+
 
 
 ## 16. Limitations
@@ -910,6 +959,10 @@ Prompt
 Please provide specific examples where the author could make corrections and how they could be corrected.
 ```
 
+<br><br>
+
+
+
 
 
 ## 17. Conclusions
@@ -967,6 +1020,11 @@ Prompt
 ```
 Please provide specific examples where the author could make corrections and how they could be corrected.
 ```
+
+<br><br>
+
+
+
 
 ## References
 
