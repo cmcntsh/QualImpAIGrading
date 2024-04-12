@@ -261,6 +261,38 @@ Please provide specific examples where the author could make corrections and how
 
 
 
+## Problem-Evidence-Aim Alignment
+
+### Grading alignment using a specific rubric
+
+Prompt
+
+```
+Please grade the following text based on this rubric. Here is the rubric: "[Paste the text of the rubric here, including the point values along the top and the grading categories along the side.]" Here is the text: "[Paste the text to be graded here inside quotes.]"
+```
+
+Rubric
+
+| Criteria |  5  |  4  |  3  |  2  |  1  |
+| --- | --- | --- | --- | --- | --- |
+| Problem-Evidence-Aim Alignment | The stated objectives are exceptionally well-aligned with the problems described, illustrating a profound understanding of their interconnection. Objectives are precisely tailored to address the identified problems, leaving no doubt about their relevance and significance. Alignment between the objectives and the identified problems is flawless, reflecting a meticulous attention to detail and strategic planning. | The stated objectives directly address and align with the problems described, demonstrating a clear understanding of their relationship. Alignment between the objectives and the identified problems is evident and well-established. | The stated objectives generally align with the problems described, demonstrating a basic level of relevance. There is a reasonable connection between the objectives and the identified problems, though some aspects may require further clarification. Objectives are sufficiently specific to indicate their relevance to the identified problems, but there may be room for improvement in clarity and focus. | The stated objectives somewhat relate to the problems described but lack specificity or clarity. Alignment between the objectives and the identified problems is partially evident but may require refinement. Objectives are somewhat vague or broad, making it challenging to determine their direct relevance to the identified problems. | The stated objectives are irrelevant or unclear in addressing the problems described. There is a lack of alignment between the objectives and the identified problems. Objectives may be missing entirely or fail to address the core issues outlined. |
+
+#### Follow up to get specific suggestions for improvement
+
+ChatGPT suggested a grade and made some geneneral suggestions for improvement. I followed up with another prompt and received specific examples with suggested fixes.
+
+Prompt
+
+```
+Please provide specific examples where the author could make corrections and how they could be corrected.
+```
+
+<br><br>
+
+
+
+
+
 ## 6. Specific Aims
 
 ### Copyediting
