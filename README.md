@@ -279,35 +279,12 @@ How well does the following text discuss each of these elements? What is the pur
 "[Paste the text you want evaluated here.]"
 ```
 
-### Evaluate how well each objective is supported by text in the Problem Description section
-
-Project objectives should be selected because they address the local problems outlined in the Problem Description section.
-
-Prompt (This prompt could be tried in https://chat.openai.com/ or https://bard.google.com/chat .)
-
-```
-I'm conducting a healthcare quality improvement project and reporting the results following SQUIRE 2.0 guidelines. Categorize how well the problem description text supports each project objective using the following categories. (available categories are directly supported, indirectly supported, and not supported)  Here are the project objectives: "[paste project objectives text here]" Here is the problem description text: "[paste Problem Description text here]"
-```
-
-### Evaluate how well each objective is supported by the evidence cited in the Available Knowledge section
-
-Project objectives should also be selected because they address problems identified in published literature.
-
-Prompt (This prompt could be tried in https://chat.openai.com/ or https://bard.google.com/chat .)
-
-```
-I'm conducting a healthcare quality improvement project. Categorize how well the cited evidence supports each project objective using the following categories. (available categories are directly supported, indirectly supported, and not supported) Here are the project objectives: "[paste project objectives text here]" Here is the available knowledge text: "[paste Problem Description text here]"
-```
-
 ### Grading a piece of writing using a specific rubric
 
 Prompt
 
 ```
-Please grade the following text based on this rubric
-[Paste the text of the rubric here, including the point values along the top and the grading categories along the side.]
-Here is the text:
-"[Paste the text to be graded here inside quotes.]"
+Please grade the following text based on this rubric. Here is the rubric: "[Paste the text of the rubric here, including the point values along the top and the grading categories along the side.]" Here is the text: "[Paste the text to be graded here inside quotes.]"
 ```
 
 Rubric
@@ -318,6 +295,30 @@ Rubric
 | Sentences | Sentences are flawless in terms of spelling, grammar, punctuation, and syntax. Each sentence is crafted with precision, clarity, and conciseness, maximizing readability. The writing flows smoothly, and the impeccable sentence structure enhances the overall effectiveness and professionalism of the text. | Sentences exhibit strong spelling, grammar, punctuation, and syntax, enhancing readability. Clear and concise sentences effectively convey ideas with precision and coherence. Errors, if any, are minimal and do not distract from the overall quality of writing. | Sentences demonstrate basic proficiency in spelling, grammar, punctuation, and syntax. Most sentences are clear and reasonably concise, facilitating understanding. Minor errors may still occur but do not significantly impede comprehension. | Spelling, grammar, and punctuation errors are present but do not overly detract from understanding. Some sentences may be unclear or awkwardly constructed, requiring effort to decipher. Overall, sentences lack conciseness and may contain unnecessary words or phrases. | Numerous spelling errors, grammar mistakes, and punctuation errors hinder comprehension. The syntax is convoluted, making sentences difficult to follow. Sentences lack clarity and conciseness, leading to confusion or ambiguity. |
 | Paragraphs | Paragraphs exhibit exceptional clarity and precision in presenting a single main topic or theme. Sentences within paragraphs are seamlessly connected, creating a coherent and compelling narrative. Transitions between sentences are expertly executed, guiding the reader effortlessly through the progression of ideas and ensuring a seamless flow of thought. | Paragraphs clearly establish a single main topic or theme, providing focus and clarity. Sentences within paragraphs flow smoothly, with logical progression of ideas. Transitions between sentences are well-crafted, enhancing the coherence and unity of the paragraph. | Paragraphs generally maintain a single main topic or theme throughout. Sentences within paragraphs are logically sequenced, facilitating understanding. Transitions between sentences are adequate, helping to maintain coherence and flow within the paragraph. | Paragraphs attempt to establish a main topic, but it may be vague or inconsistently maintained. Sentences within paragraphs are somewhat related but lack a cohesive structure. Transitions between sentences are present but may be clumsy or ineffective, causing some disruption in the flow of ideas. | Paragraphs lack a clear main topic or focus, leading to confusion. Sentences within paragraphs are disjointed, lacking coherence and logical sequence. Transitions between sentences are absent or abrupt, hindering the flow of ideas. |
 | Overall Organization and Flow | The material demonstrates exceptional organization and coherence within the section. Paragraphs are meticulously ordered and seamlessly connected, creating a cohesive and engaging narrative. Transitions between paragraphs are expertly crafted, facilitating a smooth and effortless flow of ideas throughout the section. | The material is well-organized and effectively structured for the section. Paragraphs flow logically from one to the next, with clear and effective transitions. The overall flow of the section is smooth and coherent, guiding the reader through the content in a logical and comprehensible manner. | The material is generally organized appropriately for the section, with a discernible structure. Paragraphs are ordered logically, and transitions between them are generally smooth. While the flow of the section is generally coherent, there may be some minor inconsistencies or disruptions. | The material shows some attempt at organization, but it is inconsistent or unclear. Paragraphs may have a loose logical order, but the transitions between them are often awkward or abrupt. The overall flow of the section is disrupted, making it challenging for the reader to follow the intended progression of ideas. | The material is disorganized and lacks coherence within the section. Paragraphs are randomly ordered or unrelated to the section's content. Transitions between paragraphs are absent or ineffective, resulting in a disjointed and confusing reading experience. |
+
+#### Follow up to get specific suggestions for improvement
+
+ChatGPT suggested a grade and made some geneneral suggestions for improvement. I followed up with another prompt and received specific examples with suggested fixes.
+
+Prompt
+
+```
+Please provide specific examples where the author could make corrections and how they could be corrected.
+```
+
+### Grading objectives for SMART criteria using a specific rubric
+
+Prompt
+
+```
+Please grade the following text based on this rubric. Here is the rubric: "[Paste the text of the rubric here, including the point values along the top and the grading categories along the side.]" Here is the text: "[Paste the text to be graded here inside quotes.]"
+```
+
+Rubric
+
+| Criteria |  5  |  4  |  3  |  2  |  1  |
+| --- | --- | --- | --- | --- | --- |
+| SMART Objectives | Objectives are impeccably specific, measurable, attainable, relevant, and time-based. Measurable criteria are quantifiable and easily understood, providing clear benchmarks for success. Objectives are not only attainable but also stretch goals that push the boundaries of achievement. Relevance to the project's goals and context is seamlessly integrated into the objectives. Timeframes for achieving the objectives are meticulously planned and aligned with project milestones, ensuring efficient progress and timely delivery. | Objectives are highly specific, leaving no room for ambiguity or misinterpretation. Measurable criteria are clearly defined, allowing for objective assessment of progress. Objectives are realistically attainable within the given resources and constraints. Relevance to the project's goals and context is well-established and articulated. Timeframes for achieving the objectives are precise and feasible, ensuring timely completion. | Objectives are specific enough to provide a clear understanding of what is to be achieved. Measurable criteria are defined to assess progress or success. Objectives are reasonably attainable given the resources and constraints. Relevance to the project's goals and context is adequately explained. Timeframes for achieving the objectives are provided, though they may need further clarification or adjustment. | Objectives are somewhat specific but lack clarity or detail. Some aspects of the objectives are measurable, but not all criteria are defined. Attainability of the objectives is questionable or depends on uncertain factors. Relevance to the project's goals is implied but not explicitly stated. Timeframes for achieving the objectives are mentioned but may lack precision or feasibility. | Objectives are vague and lack specificity, making it unclear what is to be achieved. There are no measurable criteria provided to assess progress or success. The objectives may be unrealistic or unattainable given the resources and constraints. Relevance to the overall goals or context of the project is unclear. Timeframes for achieving the objectives are absent or poorly defined. |
 
 #### Follow up to get specific suggestions for improvement
 
