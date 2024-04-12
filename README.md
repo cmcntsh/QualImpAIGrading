@@ -22,6 +22,10 @@ You should do copyediting (checking grammar, spelling, and punctuation) on the t
 Please list each sentence of this text in a new line, and please number the lines. In addition, please review each sentence for grammar, syntax, usage, spelling, and punctuation errors and suggest specific improvements. When suggesting revisions, please list the sentence number, the original sentence, the reason a revision might be needed, and then the revised sentence. If no revision is suggested, please indicate that no revision is needed.  Here is the text: "[paste text here inside quotes]"
 ```
 
+
+
+
+
 ## 1. Title
 
 Prompt: Evaluate the title of a quality improvement paper (See 1. Title at https://www.squire-statement.org/index.cfm?fuseaction=page.viewpage&pageid=504)
@@ -54,9 +58,17 @@ Prompt
 Please provide specific examples where the author could make improvements and how they could be improved.
 ```
 
+
+
+
+
 ## 2. Abstract (write last)
 
 See copyediting prompt above. https://github.com/cmcntsh/QualImpAIGrading#copyediting 
+
+
+
+
 
 ## 3. Problem Description
 
@@ -96,21 +108,19 @@ The text is long and I need to submit it in sections. Please tell me when you're
 Prompt
 
 ```
-Please grade the following text based on this rubric
-[Paste the text of the rubric here, including the point values along the top and the grading categories along the side.]
-Here is the text:
-"[Paste the text to be graded here inside quotes.]"
+Please grade the following text based on this rubric. Here is the rubric: "[Paste the text of the rubric here, including the point values along the top and the grading categories along the side.]" Here is the text: "[Paste the text to be graded here inside quotes.]"
 ```
 
 Rubric
 
-| Criteria |  4  |  3  |  2  |  1  |
-| --- | --- | --- | --- | --- |
-| Grammar & Punctuation | The author makes no errors in grammar, mechanics, or spelling. | The author makes a few errors in grammar, mechanics, or spelling, but they do not interfere with understanding. | The author makes several errors in grammar, mechanics, or spelling that interfere with understanding. | The author makes numerous errors in grammar, mechanics, or spelling that interfere with understanding. |
-| Logic & Flow | The author consistently uses well-formed paragraphs that have clear topics, suitable transitions between sentences and paragraphs, logical arrangement, and clearly written sentences. | The author mostly uses well-formed paragraphs that have clear topics, suitable transitions between sentences and paragraphs, logical arrangement, and clearly written sentences. | The author has some paragraphs that are not well-formed. Topics in some paragraphs may not be clear. Some transitions between sentences and paragraphs may be abrupt or disjointed. Some paragraphs or sentences may not follow a logical arrangement or may not be clearly written. | The author has several paragraphs that are not well-formed. Topics in several paragraphs may not be clear. Transitions between sentences and paragraphs may be abrupt or disjointed. Several paragraphs or sentences may not follow a logical arrangement or may not be clearly written. |
-| Content | Original and insightful | Strong understanding | Adequate understanding, superficial | Limited understanding, weak |
-| Style & Voice | Engages reader, clear and confident voice, stylistic control and flexibility, perfect tone | Clear and engaging, consistent voice, may lack originality or nuanced tone | Unclear or uneven voice, struggles to engage, inconsistent voice | Lacks clarity and engagement, unable to convey ideas, inconsistent or inappropriate voice |
-| APA Formatting | Flawless adherence to APA guidelines, including citations, references, formatting, and structure | Consistent application of APA principles, minor deviations not affecting clarity | Partial understanding of APA, inconsistent application, errors hinder clarity | Frequent APA errors, inaccurate formatting, citations or references unclear or missing |
+| Criteria |  5  |  4  |  3  |  2  |  1  |
+| --- | --- | --- | --- | --- | --- |
+| ___ | ___ | ___ | ___ | ___ | ___ |
+| ___ | ___ | ___ | ___ | ___ | ___ |
+| ___ | ___ | ___ | ___ | ___ | ___ |
+| ___ | ___ | ___ | ___ | ___ | ___ |
+| ___ | ___ | ___ | ___ | ___ | ___ |
+| ___ | ___ | ___ | ___ | ___ | ___ |
 
 #### Follow up to get specific suggestions for improvement
 
@@ -121,6 +131,10 @@ Prompt
 ```
 Please provide specific examples where the author could make corrections and how they could be corrected.
 ```
+
+
+
+
 
 ## 4. Available Knowledge
 
