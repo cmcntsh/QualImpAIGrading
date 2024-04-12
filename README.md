@@ -262,54 +262,6 @@ Please provide specific examples where the author could make corrections and how
 
 
 
-## Problem-Evidence-Aim Alignment
-
-### Evaluate Problem Description and Objectives Alignment
-
-Prompt: This prompt groups stated objectives with described problems.
-
-```
-I'm conducting a healthcare quality improvement project and reporting the results following SQUIRE 2.0 guidelines. Categorize how well the problem description text supports each project objective using the following categories. (available categories are directly supported, indirectly supported, and not supported)  Here are the project objectives: "[paste project objectives text here]" Here is the problem description text: "[paste Problem Description text here]"
-```
-
-### Evaluate Available Knowledge and Objectives Alignment
-
-Prompt: This prompt groups stated objectives with described evidence.
-
-```
-I'm conducting a healthcare quality improvement project. Categorize how well the cited evidence supports each project objective using the following categories. (available categories are directly supported, indirectly supported, and not supported) Here are the project objectives: "[paste project objectives text here]" Here is the Available Knowledge text: "[paste Available Knowledge text here]"
-```
-
-### Grading alignment using a specific rubric
-
-Prompt: (Grading alignment may need to be done manually. This section may not lend itself to automatic grading, but the rubric may be useful for manual assessment.)
-
-```
-Please grade the following text based on this rubric. Here is the rubric: "[Paste the text of the rubric here, including the point values along the top and the grading categories along the side.]" Here is the text: "[Paste the text to be graded here inside quotes.]"
-```
-
-Rubric
-
-| Criteria |  5  |  4  |  3  |  2  |  1  |
-| --- | --- | --- | --- | --- | --- |
-| Problem-Evidence-Aim Alignment | The stated objectives are exceptionally well-aligned with the problems described, illustrating a profound understanding of their interconnection. Objectives are precisely tailored to address the identified problems, leaving no doubt about their relevance and significance. Alignment between the objectives and the identified problems is flawless, reflecting a meticulous attention to detail and strategic planning. | The stated objectives directly address and align with the problems described, demonstrating a clear understanding of their relationship. Alignment between the objectives and the identified problems is evident and well-established. | The stated objectives generally align with the problems described, demonstrating a basic level of relevance. There is a reasonable connection between the objectives and the identified problems, though some aspects may require further clarification. Objectives are sufficiently specific to indicate their relevance to the identified problems, but there may be room for improvement in clarity and focus. | The stated objectives somewhat relate to the problems described but lack specificity or clarity. Alignment between the objectives and the identified problems is partially evident but may require refinement. Objectives are somewhat vague or broad, making it challenging to determine their direct relevance to the identified problems. | The stated objectives are irrelevant or unclear in addressing the problems described. There is a lack of alignment between the objectives and the identified problems. Objectives may be missing entirely or fail to address the core issues outlined. |
-
-#### Follow up to get specific suggestions for improvement
-
-ChatGPT suggested a grade and made some geneneral suggestions for improvement. I followed up with another prompt and received specific examples with suggested fixes.
-
-Prompt
-
-```
-Please provide specific examples where the author could make corrections and how they could be corrected.
-```
-
-<br><br>
-
-
-
-
-
 ## 6. Specific Aims
 
 ### Copyediting
@@ -366,6 +318,54 @@ Rubric
 | Sentences | Sentences are flawless in terms of spelling, grammar, punctuation, and syntax. Each sentence is crafted with precision, clarity, and conciseness, maximizing readability. The writing flows smoothly, and the impeccable sentence structure enhances the overall effectiveness and professionalism of the text. | Sentences exhibit strong spelling, grammar, punctuation, and syntax, enhancing readability. Clear and concise sentences effectively convey ideas with precision and coherence. Errors, if any, are minimal and do not distract from the overall quality of writing. | Sentences demonstrate basic proficiency in spelling, grammar, punctuation, and syntax. Most sentences are clear and reasonably concise, facilitating understanding. Minor errors may still occur but do not significantly impede comprehension. | Spelling, grammar, and punctuation errors are present but do not overly detract from understanding. Some sentences may be unclear or awkwardly constructed, requiring effort to decipher. Overall, sentences lack conciseness and may contain unnecessary words or phrases. | Numerous spelling errors, grammar mistakes, and punctuation errors hinder comprehension. The syntax is convoluted, making sentences difficult to follow. Sentences lack clarity and conciseness, leading to confusion or ambiguity. |
 | Paragraphs | Paragraphs exhibit exceptional clarity and precision in presenting a single main topic or theme. Sentences within paragraphs are seamlessly connected, creating a coherent and compelling narrative. Transitions between sentences are expertly executed, guiding the reader effortlessly through the progression of ideas and ensuring a seamless flow of thought. | Paragraphs clearly establish a single main topic or theme, providing focus and clarity. Sentences within paragraphs flow smoothly, with logical progression of ideas. Transitions between sentences are well-crafted, enhancing the coherence and unity of the paragraph. | Paragraphs generally maintain a single main topic or theme throughout. Sentences within paragraphs are logically sequenced, facilitating understanding. Transitions between sentences are adequate, helping to maintain coherence and flow within the paragraph. | Paragraphs attempt to establish a main topic, but it may be vague or inconsistently maintained. Sentences within paragraphs are somewhat related but lack a cohesive structure. Transitions between sentences are present but may be clumsy or ineffective, causing some disruption in the flow of ideas. | Paragraphs lack a clear main topic or focus, leading to confusion. Sentences within paragraphs are disjointed, lacking coherence and logical sequence. Transitions between sentences are absent or abrupt, hindering the flow of ideas. |
 | Overall Organization and Flow | The material demonstrates exceptional organization and coherence within the section. Paragraphs are meticulously ordered and seamlessly connected, creating a cohesive and engaging narrative. Transitions between paragraphs are expertly crafted, facilitating a smooth and effortless flow of ideas throughout the section. | The material is well-organized and effectively structured for the section. Paragraphs flow logically from one to the next, with clear and effective transitions. The overall flow of the section is smooth and coherent, guiding the reader through the content in a logical and comprehensible manner. | The material is generally organized appropriately for the section, with a discernible structure. Paragraphs are ordered logically, and transitions between them are generally smooth. While the flow of the section is generally coherent, there may be some minor inconsistencies or disruptions. | The material shows some attempt at organization, but it is inconsistent or unclear. Paragraphs may have a loose logical order, but the transitions between them are often awkward or abrupt. The overall flow of the section is disrupted, making it challenging for the reader to follow the intended progression of ideas. | The material is disorganized and lacks coherence within the section. Paragraphs are randomly ordered or unrelated to the section's content. Transitions between paragraphs are absent or ineffective, resulting in a disjointed and confusing reading experience. |
+
+#### Follow up to get specific suggestions for improvement
+
+ChatGPT suggested a grade and made some geneneral suggestions for improvement. I followed up with another prompt and received specific examples with suggested fixes.
+
+Prompt
+
+```
+Please provide specific examples where the author could make corrections and how they could be corrected.
+```
+
+<br><br>
+
+
+
+
+
+## Problem-Evidence-Aim Alignment
+
+### Evaluate Problem Description and Objectives Alignment
+
+Prompt: This prompt groups stated objectives with described problems.
+
+```
+I'm conducting a healthcare quality improvement project and reporting the results following SQUIRE 2.0 guidelines. Categorize how well the problem description text supports each project objective using the following categories. (available categories are directly supported, indirectly supported, and not supported)  Here are the project objectives: "[paste project objectives text here]" Here is the problem description text: "[paste Problem Description text here]"
+```
+
+### Evaluate Available Knowledge and Objectives Alignment
+
+Prompt: This prompt groups stated objectives with described evidence.
+
+```
+I'm conducting a healthcare quality improvement project. Categorize how well the cited evidence supports each project objective using the following categories. (available categories are directly supported, indirectly supported, and not supported) Here are the project objectives: "[paste project objectives text here]" Here is the Available Knowledge text: "[paste Available Knowledge text here]"
+```
+
+### Grading alignment using a specific rubric
+
+Prompt: (Grading alignment may need to be done manually. This section may not lend itself to automatic grading, but the rubric may be useful for manual assessment.)
+
+```
+Please grade the following text based on this rubric. Here is the rubric: "[Paste the text of the rubric here, including the point values along the top and the grading categories along the side.]" Here is the text: "[Paste the text to be graded here inside quotes.]"
+```
+
+Rubric
+
+| Criteria |  5  |  4  |  3  |  2  |  1  |
+| --- | --- | --- | --- | --- | --- |
+| Problem-Evidence-Aim Alignment | The stated objectives are exceptionally well-aligned with the problems described, illustrating a profound understanding of their interconnection. Objectives are precisely tailored to address the identified problems, leaving no doubt about their relevance and significance. Alignment between the objectives and the identified problems is flawless, reflecting a meticulous attention to detail and strategic planning. | The stated objectives directly address and align with the problems described, demonstrating a clear understanding of their relationship. Alignment between the objectives and the identified problems is evident and well-established. | The stated objectives generally align with the problems described, demonstrating a basic level of relevance. There is a reasonable connection between the objectives and the identified problems, though some aspects may require further clarification. Objectives are sufficiently specific to indicate their relevance to the identified problems, but there may be room for improvement in clarity and focus. | The stated objectives somewhat relate to the problems described but lack specificity or clarity. Alignment between the objectives and the identified problems is partially evident but may require refinement. Objectives are somewhat vague or broad, making it challenging to determine their direct relevance to the identified problems. | The stated objectives are irrelevant or unclear in addressing the problems described. There is a lack of alignment between the objectives and the identified problems. Objectives may be missing entirely or fail to address the core issues outlined. |
 
 #### Follow up to get specific suggestions for improvement
 
@@ -677,6 +677,62 @@ Rubric
 | Sentences | Sentences are flawless in terms of spelling, grammar, punctuation, and syntax. Each sentence is crafted with precision, clarity, and conciseness, maximizing readability. The writing flows smoothly, and the impeccable sentence structure enhances the overall effectiveness and professionalism of the text. | Sentences exhibit strong spelling, grammar, punctuation, and syntax, enhancing readability. Clear and concise sentences effectively convey ideas with precision and coherence. Errors, if any, are minimal and do not distract from the overall quality of writing. | Sentences demonstrate basic proficiency in spelling, grammar, punctuation, and syntax. Most sentences are clear and reasonably concise, facilitating understanding. Minor errors may still occur but do not significantly impede comprehension. | Spelling, grammar, and punctuation errors are present but do not overly detract from understanding. Some sentences may be unclear or awkwardly constructed, requiring effort to decipher. Overall, sentences lack conciseness and may contain unnecessary words or phrases. | Numerous spelling errors, grammar mistakes, and punctuation errors hinder comprehension. The syntax is convoluted, making sentences difficult to follow. Sentences lack clarity and conciseness, leading to confusion or ambiguity. |
 | Paragraphs | Paragraphs exhibit exceptional clarity and precision in presenting a single main topic or theme. Sentences within paragraphs are seamlessly connected, creating a coherent and compelling narrative. Transitions between sentences are expertly executed, guiding the reader effortlessly through the progression of ideas and ensuring a seamless flow of thought. | Paragraphs clearly establish a single main topic or theme, providing focus and clarity. Sentences within paragraphs flow smoothly, with logical progression of ideas. Transitions between sentences are well-crafted, enhancing the coherence and unity of the paragraph. | Paragraphs generally maintain a single main topic or theme throughout. Sentences within paragraphs are logically sequenced, facilitating understanding. Transitions between sentences are adequate, helping to maintain coherence and flow within the paragraph. | Paragraphs attempt to establish a main topic, but it may be vague or inconsistently maintained. Sentences within paragraphs are somewhat related but lack a cohesive structure. Transitions between sentences are present but may be clumsy or ineffective, causing some disruption in the flow of ideas. | Paragraphs lack a clear main topic or focus, leading to confusion. Sentences within paragraphs are disjointed, lacking coherence and logical sequence. Transitions between sentences are absent or abrupt, hindering the flow of ideas. |
 | Overall Organization and Flow | The material demonstrates exceptional organization and coherence within the section. Paragraphs are meticulously ordered and seamlessly connected, creating a cohesive and engaging narrative. Transitions between paragraphs are expertly crafted, facilitating a smooth and effortless flow of ideas throughout the section. | The material is well-organized and effectively structured for the section. Paragraphs flow logically from one to the next, with clear and effective transitions. The overall flow of the section is smooth and coherent, guiding the reader through the content in a logical and comprehensible manner. | The material is generally organized appropriately for the section, with a discernible structure. Paragraphs are ordered logically, and transitions between them are generally smooth. While the flow of the section is generally coherent, there may be some minor inconsistencies or disruptions. | The material shows some attempt at organization, but it is inconsistent or unclear. Paragraphs may have a loose logical order, but the transitions between them are often awkward or abrupt. The overall flow of the section is disrupted, making it challenging for the reader to follow the intended progression of ideas. | The material is disorganized and lacks coherence within the section. Paragraphs are randomly ordered or unrelated to the section's content. Transitions between paragraphs are absent or ineffective, resulting in a disjointed and confusing reading experience. |
+
+#### Follow up to get specific suggestions for improvement
+
+ChatGPT suggested a grade and made some geneneral suggestions for improvement. I followed up with another prompt and received specific examples with suggested fixes.
+
+Prompt
+
+```
+Please provide specific examples where the author could make corrections and how they could be corrected.
+```
+
+<br><br>
+
+
+
+
+
+## Intervention(s)-Study-Measure-Analysis Alignment
+
+### Evaluate Study of the Interventions(s) and Intervention(s) Alignment
+
+Prompt: This prompt groups Study of the Intervention(s) with described interventions.
+
+```
+How well does the following text discuss ways to assess each project intervention? Please list the full description for each intervention and explain what approach will be used to evaluate the effectiveness of the intervention? In addition, describe what approach will be used to establish whether the outcomes were due to the intervention. Here are the project interventions: "[Paste text describing each intervention here.]" Here is the section text: "[Paste the text you want evaluated here.]"
+```
+
+### Evaluate Measure and Intervention(s) Alignment
+
+Prompt: This prompt groups measures with described interventions.
+
+```
+How well does the following text discuss each of these elements for each project intervention? What tools, instruments, or measures are described? What are the operational definitions for key concepts? What is the reliability and validity of the tools, instruments, or measures? What is the approach for assessing contextual elements that impact the success or failure of the intervention? What methods to assess the completeness and accuracy of the data are described? Please list the full description for each intervention and then provide your analysis. Here are the project interventions: "[Paste text describing each intervention here.]" Here is the section text: "[Paste the text you want evaluated here.]"
+```
+
+### Evaluate Analysis and Intervention(s) Alignment
+
+Prompt: This prompt groups analyses with described interventions.
+
+```
+How well does the following text report an outcome for each project intervention? What qualitative methods are described to draw inferences from the data? What quantitative methods are described to draw inferences from the data? Please list the full description for each intervention and then provide your analysis for each intervention. Here are the project interventions: "[Paste text describing each intervention here.]" Here is the section text: "[Paste the text you want evaluated here.]"
+```
+
+### Grading alignment using a specific rubric
+
+Prompt: (Grading alignment may need to be done manually. This section may not lend itself to automatic grading, but the rubric may be useful for manual assessment.)
+
+```
+Please grade the following text based on this rubric. Here is the rubric: "[Paste the text of the rubric here, including the point values along the top and the grading categories along the side.]" Here is the text: "[Paste the text to be graded here inside quotes.]"
+```
+
+Rubric
+
+| Criteria |  5  |  4  |  3  |  2  |  1  |
+| --- | --- | --- | --- | --- | --- |
+| Intervention-Study-Measure-Analysis Alignment | The outlined interventions are impeccably addressed by the Study, Measure, and Analysis descriptions, exhibiting flawless alignment. There is perfect coherence between the interventions outlined and how they are addressed in the Study, Measure, and Analysis sections. The descriptions of the Study, Measure, and Analysis are highly detailed and meticulously crafted, providing an in-depth understanding of how the interventions are implemented and evaluated. | The outlined interventions are effectively addressed by the Study, Measure, and Analysis descriptions, demonstrating a clear alignment. There is a strong coherence between the interventions outlined and how they are addressed in the Study, Measure, and Analysis sections. The descriptions of the Study, Measure, and Analysis provide detailed information on the implementation and evaluation of the interventions, ensuring comprehensive coverage. | The outlined interventions are generally addressed by the Study, Measure, and Analysis descriptions, providing a basic level of alignment. There is some coherence between the interventions outlined and how they are addressed in the Study, Measure, and Analysis sections. The descriptions of the Study, Measure, and Analysis provide sufficient detail to understand how the interventions are implemented and evaluated. | Some of the outlined interventions are addressed by the Study, Measure, and Analysis descriptions, but there are gaps or inconsistencies. The alignment between interventions and their treatment in the Study, Measure, and Analysis sections is partially evident but needs improvement. The descriptions of the Study, Measure, and Analysis lack specificity or depth in addressing the outlined interventions. | The outlined interventions are not addressed or are poorly addressed by the Study, Measure, and Analysis descriptions. There is a lack of coherence between the interventions outlined and how they are addressed in the Study, Measure, and Analysis sections. The Study, Measure, and Analysis descriptions fail to provide sufficient detail or clarity regarding the interventions. |
 
 #### Follow up to get specific suggestions for improvement
 
