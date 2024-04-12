@@ -67,6 +67,30 @@ Please provide specific examples where the author could make improvements and ho
 See copyediting prompt above. https://github.com/cmcntsh/QualImpAIGrading#copyediting 
 
 
+### Grading the abstract using a specific rubric
+
+Prompt
+
+```
+Please grade the following abstract based on this rubric. Here is the rubric: "[Paste the text of the abstract here, including the point values along the top and the grading categories along the side.]" Here is the title: "[Paste the title to be graded here inside quotes.]"
+```
+
+Rubric
+
+| Criteria |  5  |  4  |  3  |  2  |  1  |
+| --- | --- | --- | --- | --- | --- |
+| Abstract | The abstract is exceptional in aiding searching and indexing, with highly relevant keywords and MeSH terms that capture the essence of the study. Key information from sections of the text is expertly summarized, providing a concise yet comprehensive overview of the study's local problem, methods, interventions, results, and conclusions. The abstract is impeccably structured and written, effectively conveying the significance and implications of the study in a succinct and compelling manner. | The abstract effectively aids in searching and indexing by providing comprehensive keywords and MeSH terms. Key information from sections of the text is succinctly and accurately summarized, offering a clear overview of the study. The abstract is well-structured and provides sufficient detail to convey the local problem, methods, interventions, results, and conclusions, facilitating understanding and evaluation. | The abstract includes adequate information for searching and indexing, with appropriate keywords and MeSH terms. Key information from sections of the text, including the local problem, methods, interventions, results, and conclusions, is summarized in a coherent manner. While the abstract provides a basic understanding of the study, there may be areas where more detail or clarity could improve comprehension. | The abstract provides some information for searching and indexing but lacks completeness. Keywords and MeSH terms are included, but they may not effectively capture the main concepts. Some key information from sections of the text is summarized, but there are gaps or inconsistencies in coverage. | The abstract lacks sufficient information to aid in searching and indexing. Keywords and MeSH terms are missing or poorly chosen, hindering discoverability. Essential information from sections of the text, such as the local problem, methods, interventions, results, and conclusions, is either entirely absent or inadequately summarized. |
+
+#### Follow up to get specific suggestions for improvement
+
+ChatGPT suggested a grade and made some geneneral suggestions for improvement. I followed up with another prompt and received specific examples with suggested fixes.
+
+Prompt
+
+```
+Please provide specific examples where the author could make improvements and how they could be improved.
+```
+
 <br><br>
 
 
