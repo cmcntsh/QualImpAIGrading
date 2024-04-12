@@ -95,6 +95,7 @@ Prompt: This is the substantive editing prompt that evaluates general content.
 How well does the following text answer each of these questions? Why are you doing this project? What is the problem you’re addressing? Who is affected? When is it a problem? Why does it matter? How does it affect the patient or system? Has a cause been identified? What will happen if this problem is not addressed?
 "[Paste the text you want evaluated here.]"
 ```
+
 #### Prompt when text exceeds character limits
 
 Prompt: Include this phrase instead of the text in the prompt above if the text is too long to submit in a single entry.
@@ -263,9 +264,25 @@ Please provide specific examples where the author could make corrections and how
 
 ## Problem-Evidence-Aim Alignment
 
+### Evaluate Problem Description and Objectives Alignment
+
+Prompt: This prompt groups stated objectives with described problems.
+
+```
+I'm conducting a healthcare quality improvement project and reporting the results following SQUIRE 2.0 guidelines. Categorize how well the problem description text supports each project objective using the following categories. (available categories are directly supported, indirectly supported, and not supported)  Here are the project objectives: "[paste project objectives text here]" Here is the problem description text: "[paste Problem Description text here]"
+```
+
+### Evaluate Available Knowledge and Objectives Alignment
+
+Prompt: This prompt groups stated objectives with described evidence.
+
+```
+I'm conducting a healthcare quality improvement project. Categorize how well the cited evidence supports each project objective using the following categories. (available categories are directly supported, indirectly supported, and not supported) Here are the project objectives: "[paste project objectives text here]" Here is the Available Knowledge text: "[paste Available Knowledge text here]"
+```
+
 ### Grading alignment using a specific rubric
 
-Prompt
+Prompt: (Grading alignment may need to be done manually. This section may not lend itself to automatic grading, but the rubric may be useful for manual assessment.)
 
 ```
 Please grade the following text based on this rubric. Here is the rubric: "[Paste the text of the rubric here, including the point values along the top and the grading categories along the side.]" Here is the text: "[Paste the text to be graded here inside quotes.]"
