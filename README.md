@@ -1150,6 +1150,10 @@ Prompt: Check the formatting of references in the references list. (These need t
 Do these references follow proper APA 7 formatting guidelines? Please suggest specific improvements where needed. Here are the references: "[paste references here in quotes]"
 ```
 
+<br><br>
+
+
+
 ## Areas of Difficulty During Final Review Process
 
 * All parts of the project that have been completed should be referred to in the past tense in all parts of the paper. (If you're fairly certain a part of the project will be complete by the time you're finishing your paper, it's perfectly acceptable to write about it in the past tense during earlier stages of writing.)
