@@ -1150,4 +1150,13 @@ Prompt: Check the formatting of references in the references list. (These need t
 Do these references follow proper APA 7 formatting guidelines? Please suggest specific improvements where needed. Here are the references: "[paste references here in quotes]"
 ```
 
+## Areas of Difficulty During Final Review Process
 
+* All parts of the project that have been completed should be referred to in the past tense in all parts of the paper. (If you're fairly certain a part of the project will be complete by the time you're finishing your paper, it's perfectly acceptable to write about it in the past tense during earlier stages of writing.)
+* All spelling, grammar, and punctuation errors need to be corrected. (Those are highlighted in red in Grammarly.)
+* The review process will go much more smoothly and quickly if you edit your paper for clarity and conciseness. (Those suggestions are highlighted in blue in Grammarly.)
+* Tables and Figures need to follow APA formatting standards.
+  * https://apastyle.apa.org/style-grammar-guidelines/tables-figures/tables
+  * https://apastyle.apa.org/style-grammar-guidelines/tables-figures/figures
+  * APA 7 in Microsoft Word: Formatting Tables (14 min) https://www.youtube.com/watch?v=s8rS4uL6jVI
+* Abbreviations should be defined the first time they're used in the paper. Thereafter, only the abbreviation should be used in the paper, and not the original term.
