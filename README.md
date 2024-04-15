@@ -191,10 +191,7 @@ What evidence is cited in the following text to answer each of these questions? 
 Prompt
 
 ```
-Please grade the following text based on this rubric
-[Paste the text of the rubric here, including the point values along the top and the grading categories along the side.]
-Here is the text:
-"[Paste the text to be graded here inside quotes.]"
+Please grade the following text based on this rubric. Here is the rubric: [Paste the text of the rubric here, including the point values along the top and the grading categories along the side.] Here is the text: "[Paste the text to be graded here inside quotes.]"
 ```
 
 Rubric
@@ -254,10 +251,7 @@ How well does the following text discuss each of these elements? What frameworks
 Prompt
 
 ```
-Please grade the following text based on this rubric
-[Paste the text of the rubric here, including the point values along the top and the grading categories along the side.]
-Here is the text:
-"[Paste the text to be graded here inside quotes.]"
+Please grade the following text based on this rubric. Here is the rubric: [Paste the text of the rubric here, including the point values along the top and the grading categories along the side.] Here is the text: "[Paste the text to be graded here inside quotes.]"
 ```
 
 Rubric
@@ -439,10 +433,7 @@ How well does the following text discuss each of these elements? What are the co
 Prompt
 
 ```
-Please grade the following text based on this rubric
-[Paste the text of the rubric here, including the point values along the top and the grading categories along the side.]
-Here is the text:
-"[Paste the text to be graded here inside quotes.]"
+Please grade the following text based on this rubric. Here is the rubric: [Paste the text of the rubric here, including the point values along the top and the grading categories along the side.] Here is the text: "[Paste the text to be graded here inside quotes.]"
 ```
 
 Rubric
@@ -502,10 +493,7 @@ Here are the project objectives: "[Paste text describing each objective here.]" 
 Prompt
 
 ```
-Please grade the following text based on this rubric
-[Paste the text of the rubric here, including the point values along the top and the grading categories along the side.]
-Here is the text:
-"[Paste the text to be graded here inside quotes.]"
+Please grade the following text based on this rubric. Here is the rubric: [Paste the text of the rubric here, including the point values along the top and the grading categories along the side.] Here is the text: "[Paste the text to be graded here inside quotes.]"
 ```
 
 Rubric
@@ -564,10 +552,7 @@ Here are the project objectives: "[Paste text describing each objective here.]" 
 Prompt
 
 ```
-Please grade the following text based on this rubric
-[Paste the text of the rubric here, including the point values along the top and the grading categories along the side.]
-Here is the text:
-"[Paste the text to be graded here inside quotes.]"
+Please grade the following text based on this rubric. Here is the rubric: [Paste the text of the rubric here, including the point values along the top and the grading categories along the side.] Here is the text: "[Paste the text to be graded here inside quotes.]"
 ```
 
 Rubric
@@ -626,10 +611,7 @@ Here are the project objectives: "[Paste text describing each objective here.]" 
 Prompt
 
 ```
-Please grade the following text based on this rubric
-[Paste the text of the rubric here, including the point values along the top and the grading categories along the side.]
-Here is the text:
-"[Paste the text to be graded here inside quotes.]"
+Please grade the following text based on this rubric. Here is the rubric: [Paste the text of the rubric here, including the point values along the top and the grading categories along the side.] Here is the text: "[Paste the text to be graded here inside quotes.]"
 ```
 
 Rubric
@@ -689,10 +671,7 @@ Here are the project objectives: "[Paste text describing each objective here.]" 
 Prompt
 
 ```
-Please grade the following text based on this rubric
-[Paste the text of the rubric here, including the point values along the top and the grading categories along the side.]
-Here is the text:
-"[Paste the text to be graded here inside quotes.]"
+Please grade the following text based on this rubric. Here is the rubric: [Paste the text of the rubric here, including the point values along the top and the grading categories along the side.] Here is the text: "[Paste the text to be graded here inside quotes.]"
 ```
 
 Rubric
@@ -806,10 +785,7 @@ How well does the following text discuss each of these elements? What ethical re
 Prompt
 
 ```
-Please grade the following text based on this rubric
-[Paste the text of the rubric here, including the point values along the top and the grading categories along the side.]
-Here is the text:
-"[Paste the text to be graded here inside quotes.]"
+Please grade the following text based on this rubric. Here is the rubric: [Paste the text of the rubric here, including the point values along the top and the grading categories along the side.] Here is the text: "[Paste the text to be graded here inside quotes.]"
 ```
 
 Rubric
@@ -868,10 +844,7 @@ Here are the project objectives: "[Paste text describing each objective here.]" 
 Prompt
 
 ```
-Please grade the following text based on this rubric
-[Paste the text of the rubric here, including the point values along the top and the grading categories along the side.]
-Here is the text:
-"[Paste the text to be graded here inside quotes.]"
+Please grade the following text based on this rubric. Here is the rubric: [Paste the text of the rubric here, including the point values along the top and the grading categories along the side.] Here is the text: "[Paste the text to be graded here inside quotes.]"
 ```
 
 Rubric
@@ -989,10 +962,7 @@ Here are the project objectives: "[Paste text describing each objective here.]" 
 Prompt
 
 ```
-Please grade the following text based on this rubric
-[Paste the text of the rubric here, including the point values along the top and the grading categories along the side.]
-Here is the text:
-"[Paste the text to be graded here inside quotes.]"
+Please grade the following text based on this rubric. Here is the rubric: [Paste the text of the rubric here, including the point values along the top and the grading categories along the side.] Here is the text: "[Paste the text to be graded here inside quotes.]"
 ```
 
 Rubric
@@ -1050,10 +1020,7 @@ Here are the project objectives: "[Paste text describing each objective here.]" 
 Prompt
 
 ```
-Please grade the following text based on this rubric
-[Paste the text of the rubric here, including the point values along the top and the grading categories along the side.]
-Here is the text:
-"[Paste the text to be graded here inside quotes.]"
+Please grade the following text based on this rubric. Here is the rubric: [Paste the text of the rubric here, including the point values along the top and the grading categories along the side.] Here is the text: "[Paste the text to be graded here inside quotes.]"
 ```
 
 Rubric
