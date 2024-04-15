@@ -931,10 +931,7 @@ Here are the project objectives: "[Paste text describing each objective here.]" 
 Prompt
 
 ```
-Please grade the following text based on this rubric
-[Paste the text of the rubric here, including the point values along the top and the grading categories along the side.]
-Here is the text:
-"[Paste the text to be graded here inside quotes.]"
+Please grade the following text based on this rubric. Here is the rubric: [Paste the text of the rubric here, including the point values along the top and the grading categories along the side.] Here is the text: "[Paste the text to be graded here inside quotes.]"
 ```
 
 Rubric
@@ -1113,10 +1110,7 @@ Here are the project objectives: "[Paste text describing each objective here.]" 
 Prompt
 
 ```
-Please grade the following text based on this rubric
-[Paste the text of the rubric here, including the point values along the top and the grading categories along the side.]
-Here is the text:
-"[Paste the text to be graded here inside quotes.]"
+Please grade the following text based on this rubric. Here is the rubric: [Paste the text of the rubric here, including the point values along the top and the grading categories along the side.] Here is the text: "[Paste the text to be graded here inside quotes.]"
 ```
 
 Rubric
