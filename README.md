@@ -1125,3 +1125,4 @@ Do these references follow proper APA 7 formatting guidelines? Please suggest sp
   * https://apastyle.apa.org/style-grammar-guidelines/tables-figures/figures
   * APA 7 in Microsoft Word: Formatting Tables (14 min) https://www.youtube.com/watch?v=s8rS4uL6jVI
 * Abbreviations should be defined the first time they're used in the paper. Thereafter, only the abbreviation should be used in the paper, and not the original term.
+  * https://apastyle.apa.org/style-grammar-guidelines/abbreviations/definition#:~:text=If%20an%20abbreviation%20has%20appeared,the%20term%20and%20abbreviating%20it.
