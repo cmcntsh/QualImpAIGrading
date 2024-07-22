@@ -1,6 +1,6 @@
 # Quality Improvement Manuscript AI Grading and Suggestions Resources
 
-This is a collection of resources and prompts for evaluating and grading student papers about quality improvement projects. It is broken down by sections as defined by SQUIRE 2.0 guidelines. It is an extension of the general writing suggestions I provide in https://github.com/cmcntsh/PoWeRWritingGradStudents. The generative models listed in the table below may work. I'm ordering the table by the models that currently seem the best for this purpose. Higher up the list seems to perform better, lower down the list may not perform as well or is untested. Models get updated periodically, so performance may vary over time. 
+This is a collection of resources and prompts for evaluating and grading student papers about quality improvement projects. It is broken down by sections as defined by SQUIRE 2.0 guidelines. https://www.squire-statement.org/index.cfm?fuseaction=Page.ViewPage&PageID=471 It is an extension of the general writing suggestions I provide in https://github.com/cmcntsh/PoWeRWritingGradStudents. The generative models listed in the table below may work. I'm ordering the table by the models that currently seem the best for this purpose. Higher up the list seems to perform better, lower down the list may not perform as well or is untested. Models get updated periodically, so performance may vary over time. 
 
 | Link | Model | Company | Testing Status | Limitations | As of Date |
 | --- | --- | --- | --- | --- | --- |
