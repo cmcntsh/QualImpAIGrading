@@ -484,8 +484,10 @@ This section should cover most of the aspects described in the section instructi
 Prompt: This is the substantive editing prompt that evaluates general content.
 
 ```
-How well does the following text discuss each of these elements for each project objective? How is the intervention described? Is there sufficient detail that someone else could replicate the intervention? Who is involved in implementing the intervention?
-Here are the project objectives: "[Paste text describing each objective here.]" Here is the section text: "[Paste the text you want evaluated here.]"
+How well does the following text discuss each of these elements for each project objective? What is the name of the intervention? What is the rationale or theory behind the intervention? What materials were used for the intervention or training given to those who delivered the intervention? What procedures, activities, or processes were used in the intervention? Who delivered the intervention? What was their expertise or background? Describe the mode of delivery of the intervention.
+Describe the location of where the intervention was delivered, including any necessary infrastructure. When was the intervention delivered and how often?
+Was the intervention tailored to any specific individuals? If so describe how. Was the intervention modified during the course of the study? If so, describe how.
+Describe the extent to which the intervention was delivered as planned. Here are the project objectives: "[Paste text describing each objective here.]" Here is the section text: "[Paste the text you want evaluated here.]"
 ```
 
 ### Grading a piece of writing using a specific rubric
