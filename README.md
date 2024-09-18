@@ -1,6 +1,6 @@
 # Quality Improvement Manuscript AI Grading and Suggestions Resources
 
-This is a collection of resources and prompts for evaluating and grading student papers about quality improvement projects. It is broken down by sections as defined by SQUIRE 2.0 guidelines. https://www.squire-statement.org/index.cfm?fuseaction=Page.ViewPage&PageID=471 It is an extension of the general writing suggestions I provide in https://github.com/cmcntsh/PoWeRWritingGradStudents. The generative models listed in the table below may work. I'm ordering the table by the models that currently seem the best for this purpose. Higher up the list seems to perform better, lower down the list may not perform as well or is untested. Models get updated periodically, so performance may vary over time. 
+This is a collection of resources and prompts for evaluating and grading student papers about quality improvement projects. It is broken down by sections as defined by SQUIRE 2.0 guidelines. https://www.squire-statement.org/index.cfm?fuseaction=Page.ViewPage&PageID=471 (You can watch a video overview of the SQUIRE 2.0 guidelines here. https://youtu.be/Z2wBDoks07c You can watch a video analysis of the rhetorical structure of the SQUIRE 2.0 guidelines here. https://youtu.be/40fvqNaJjl8) It is an extension of the general writing suggestions I provide in https://github.com/cmcntsh/PoWeRWritingGradStudents. (You can also watch this video where I go over some writing suggestions. https://youtu.be/0_M34HDC9f8) The generative models listed in the table below may work. I'm ordering the table by the models that currently seem the best for this purpose. Higher up the list seems to perform better, lower down the list may not perform as well or is untested. Models get updated periodically, so performance may vary over time. 
 
 | Link | Model | Company | Testing Status | Limitations | As of Date |
 | --- | --- | --- | --- | --- | --- |
@@ -98,6 +98,8 @@ Please provide specific examples where the author could make improvements and ho
 
 ## 3. Problem Description
 
+Watch this short video description. https://youtu.be/BP-9dTvYsgU
+
 ### Get a quick overall understanding of what is covered in the section by getting an outline
 
 Prompt
@@ -163,6 +165,8 @@ Please provide specific examples where the author could make corrections and how
 
 ## 4. Available Knowledge
 
+Watch this video description. https://youtu.be/yILrA9n0Ihg You can also watch this video about evaluating evidence and scholarly literature. https://youtu.be/hfZaIqZH6qk This video demonstrates some AI literature search tools. https://youtu.be/MLSmrjunZMM
+
 ### Get a quick overall understanding of what is covered in the section by getting an outline
 
 Prompt
@@ -223,6 +227,8 @@ Please provide specific examples where the author could make corrections and how
 
 ## 5. Rationale
 
+Watch this video description of how the Johns Hopkins Evidence-Based Practice Model may guide the activities of your project. https://youtu.be/KOkbnkKU-pk
+
 ### Get a quick overall understanding of what is covered in the section by getting an outline
 
 Prompt
@@ -282,6 +288,8 @@ Please provide specific examples where the author could make corrections and how
 
 
 ## 6. Specific Aims
+
+Watch this short video explanation https://youtu.be/3713oN5L-kU
 
 ### Copyediting
 
@@ -397,6 +405,26 @@ Prompt
 Please provide specific examples where the author could make corrections and how they could be corrected.
 ```
 
+
+
+<br><br>
+
+
+
+
+
+## Project Deliverables (Work Breakdown Structure), Project Task List, Project Timeline
+
+These aren't explicitly part of the SQUIRE guidelines, but defining these elements near the beginning of a project will help things run more smoothly. I'm including this material here for those working on projects while writing a QI paper.
+
+### Work Breakdown Structure (WBS) (or deliverables) Diagram
+
+Watch this video explanation and demonstration. https://youtu.be/Wngwm4L8CLI
+
+### Project Task List and Timeline
+
+Watch this video explanation and demonstration. https://youtu.be/vq06IElT-R4
+
 <br><br>
 
 
@@ -404,6 +432,8 @@ Please provide specific examples where the author could make corrections and how
 
 
 ## 7. Context
+
+Watch this video explanation https://youtu.be/eyl_Y2VYarE
 
 ### Get a quick overall understanding of what is covered in the section by getting an outline
 
@@ -702,6 +732,8 @@ Please provide specific examples where the author could make corrections and how
 
 
 ## Intervention(s)-Study-Measure-Analysis Alignment
+
+Watch this video explanation. https://youtu.be/UYBu_LRZEd8
 
 ### Evaluate Study of the Interventions(s) and Intervention(s) Alignment
 
