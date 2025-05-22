@@ -12,7 +12,19 @@ This is a collection of resources and prompts for evaluating and grading student
 
 ### Substantive Editing
 
-Prompts for evaluating content and structure are provided in the individual sections below.
+Here is a prompt that analyzes text according to concepts in the reader expectation approach to writing described by George Gopen. You should evaluate each section of your paper using this prompt.
+
+```
+We are going to analyze this text according to the reader expectation approach to writing described by George Gopen. Gopen states that a paragraph should describe the issue of the paragraph in the first one to three sentences of the paragraph. Gopen also states that if the paragraph explicitly states a point, it should be stated as the last sentence of the issue or the last sentence of the discussion of the paragraph. For each paragraph, write out the paragraph. Then answer these questions about each paragraph.
+What is the issue of the paragraph? What is the paragraph about? Does the paragraph have a one-sentence, two-sentence, or three-sentence issue? What are the discussion points in the paragraph? Is the ordering of discussion points logical? What is the point of the paragraph? Why was the paragraph written? Is the point of the paragraph explicitly stated, or is it implied? Is the paragraph a narrative paragraph that simply relays information so a point can be made later, or is the point of the paragraph explicitly stated in the paragraph? Does the point appear at the beginning of the paragraph or at the end? If the paragraph explicitly states a point, does the point appear at the last sentence of the issue or at the last sentence of the discussion, or somewhere else in the paragraph? Does the paragraph have a coda as the last sentence of the paragraph? Can you suggest any improvements to how the paragraph is structured? Is the ordering of the paragraphs logical? Can you suggest any improvements to how the paragraphs should be ordered?
+Next, analyze each sentence according to the concepts for sentence construction in the reader expectation approach described by Gopen. List each sentence and answer the following questions for the sentence.
+Which words in the sentence appear in the stress position just before a period, a colon, or a semicolon? What nominalizations are used in the sentence? What are the main actions expressed as verbs in the sentence? What is the main clause of the sentence? Does the main clause end with a period, colon, or semicolon? What is the grammatical subject of the main clause? Is there a qualifying clause or phrase in the sentence? What is the subject of the qualifying clause or phrase? Does the sentence have two main clauses separated by a comma? Is the subject and the verb separated by more than four words in the sentence? Does the sentence connect backward to the sentence that precedes it? If so, what is the connection? How close to the beginning of the sentence does the link to the previous sentence appear? Can you suggest any improvements to how the sentence is structured? Can you suggest any improvements to how the sentence links to the preceding sentence to improve flow?
+Here is the text: "<paste text here>"
+```
+
+
+
+Additional prompts for evaluating content and structure are provided in the individual sections below.
 
 ### Copyediting
 
@@ -1143,6 +1155,12 @@ Prompt: Check the formatting of references in the references list. (These need t
 
 ```
 Do these references follow proper APA 7 formatting guidelines? Please suggest specific improvements where needed. Here are the references: "[paste references here in quotes]"
+```
+
+Prompt: Match citations used in the body of the paper to references in the reference list. Identify citations missing a reference and references missing a citation.
+
+```
+Here is a piece of text and a reference list that is supposed to be formatted to APA 7 standards. Please list each sentence in the text that includes a parenthetical or in-text citation and the reference in the reference list that matches each citation. After listing the sentences that use citations, please list each reference in the reference list that is not cited in the text. Here is the text: "<paste text here>" Here is the reference list: "<paste reference list here>"
 ```
 
 <br><br>
