@@ -147,7 +147,7 @@ This section should cover most of the aspects described in the section instructi
 Prompt: This is the substantive editing prompt that evaluates general content.
 
 ```
-How well does the following text answer each of these questions? Why are you doing this project? What is the problem you’re addressing? Who is affected? When is it a problem? Why does it matter? How does it affect the patient or system? Has a cause been identified? What will happen if this problem is not addressed?
+You are an expert in healthcare quality improvement. You are helping to critique an article written about a quality improvement project. The section we're evaluating is the Problem Description section for a manuscript that follows the SQUIRE 2.0 guidelines. Please identify ways this problem description may be improved. How well does the following text answer each of these questions? Why are you doing this project? What is the problem you’re addressing? Who is affected? When is it a problem? Why does it matter? How does it affect the patient or system? Has a cause been identified? What will happen if this problem is not addressed?
 "[Paste the text you want evaluated here.]"
 ```
 
