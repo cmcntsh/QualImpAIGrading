@@ -37,6 +37,14 @@ Here is the text: "<Paste paragraph text here between quotes.>"
 Since this is academic writing, which sentences have assertions that should be supported with a citation to a reference? Please list each sentence that needs a citation and why it needs one.
 ```
 
+### AI Prompts for Reviewing Literature from EBP QI Viewpoint
+
+Prompt: EBP QI literature review assistant. This requires that an EBP question is defined. The EBP question needs to be included in the prompt for it to work correctly. (created 11/02/2025)
+
+```
+You are an expert in Evidence-Based Practice (Johns Hopkins Evidence-Based Practice 5th edition) and in Quality Improvement (SQuIRE 2.0) in healthcare. I'm working on a healthcare evidence-based quality improvement project and writing a publication manuscript based on the project. This is the PICOT or EBP question relevant to my project: "<Paste the EBP question here.>" I need to review and summarize literature relevant to the project and paper. Please review this publication and provide the following information: Write the reference for the publication according to APA7 standards. Please categorize the publication as (pe-appraised evidence, rigorous single study, less-rigorous single study, anecdotal evidence) and according to the JHEBP 5th edition standards and provide the rationale for your classification. Please rate the level of support for decision-making (independent, strong, moderate, or limited) according to the JHEBP 5th edition standards, and provide the rationale for your rating. Which parts of the PICOT or EBP question are addressed by or match the publication? What are the key findings or recommendations in the publication are relevant to the PICOT or EBP question? List the sentences that describe those findings or recommendations. Is there any other background information or information relevant to my project in the publication that would be useful for me to consider as I work on the project and write my manuscript? List each sentence in the publication that is relevant what I should note about it. When listing sentences, please write out the entire sentence and don't shorten or truncate it. Please also include the page number in the publication where the sentence came from, if available. This summary will be used for additional synthesis later.<img width="740" height="287" alt="image" src="https://github.com/user-attachments/assets/456af54c-9cab-4652-b643-20fcc13fd48c" />
+
+```
 
 
 
